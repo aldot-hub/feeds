@@ -143,7 +143,7 @@ def main():
 
     # Write output
     os.makedirs("docs", exist_ok=True)
-    output_path = "docs/feed.xml"
+    output_path = "docs/bama-auburn.xml"
     mrss = build_mrss(all_entries)
     with open(output_path, "w", encoding="utf-8") as f:
         f.write(mrss)
