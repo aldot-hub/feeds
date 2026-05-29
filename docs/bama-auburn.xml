@@ -4,8 +4,28 @@
     <title>AL.com Sports - Alabama &amp; Auburn Videos</title>
     <link>https://www.al.com</link>
     <description>Combined video feed from Alabama Crimson Tide and Auburn Tigers on AL.com</description>
-    <lastBuildDate>Fri, 29 May 2026 19:55:05 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 29 May 2026 23:59:17 +0000</lastBuildDate>
     <atom:link rel="self" type="application/rss+xml"/>
+    <item>
+      <title>What Auburn’s Eric Guevara told the team after the Tigers fell to Milwaukee in NCAA Regional play</title>
+      <link>https://www.youtube.com/shorts/utQ2VKcjPnE</link>
+      <guid isPermaLink="false">utQ2VKcjPnE</guid>
+      <pubDate>Fri, 29 May 2026 22:39:00 +0000</pubDate>
+      <author>Auburn Tigers on AL.com</author>
+      <description></description>
+      <media:thumbnail url="https://i2.ytimg.com/vi/utQ2VKcjPnE/hqdefault.jpg" width="480" height="360"/>
+      <media:content url="https://www.youtube.com/watch?v=utQ2VKcjPnE" medium="video"/>
+    </item>
+    <item>
+      <title>Auburn addresses loss to Milwaukee in first game of NCAA Regional</title>
+      <link>https://www.youtube.com/watch?v=C6-mdDbBPB4</link>
+      <guid isPermaLink="false">C6-mdDbBPB4</guid>
+      <pubDate>Fri, 29 May 2026 22:21:12 +0000</pubDate>
+      <author>Auburn Tigers on AL.com</author>
+      <description>Auburn, the No. 4 overall seed in the NCAA Tournament, fell behind 10-0 before losing 13-8 to Milwaukee</description>
+      <media:thumbnail url="https://i4.ytimg.com/vi/C6-mdDbBPB4/hqdefault.jpg" width="480" height="360"/>
+      <media:content url="https://www.youtube.com/watch?v=C6-mdDbBPB4" medium="video"/>
+    </item>
     <item>
       <title>Alabama’s softball players are asked what God has taught them this season about themselves. #RTR</title>
       <link>https://www.youtube.com/shorts/3VU8qYAha-s</link>
@@ -296,26 +316,6 @@ AL.com media coverage presented by Inline Electric Supply Co. Inc.</description>
       <description>Auburn football coach Alex Golesh speaks with reporters in Montgomery during the Jimmy Rane Charity Golf Tournament Banquet.</description>
       <media:thumbnail url="https://i2.ytimg.com/vi/YHZvGBs0z5c/hqdefault.jpg" width="480" height="360"/>
       <media:content url="https://www.youtube.com/watch?v=YHZvGBs0z5c" medium="video"/>
-    </item>
-    <item>
-      <title>Steven Pearl provides update on Auburn basketball's 2026-27 roster plans</title>
-      <link>https://www.youtube.com/watch?v=zUNMaIk0tsQ</link>
-      <guid isPermaLink="false">zUNMaIk0tsQ</guid>
-      <pubDate>Sat, 16 May 2026 19:47:45 +0000</pubDate>
-      <author>Auburn Tigers on AL.com</author>
-      <description>Auburn head coach Steven Pearl speaks to reporters in Montgomery during the Jimmy Rane Charity Golf Tournament Banquet.</description>
-      <media:thumbnail url="https://i3.ytimg.com/vi/zUNMaIk0tsQ/hqdefault.jpg" width="480" height="360"/>
-      <media:content url="https://www.youtube.com/watch?v=zUNMaIk0tsQ" medium="video"/>
-    </item>
-    <item>
-      <title>Alex Golesh jokes how hard it was to NOT see discourse on QB Byrum Brown’s throwing motion.</title>
-      <link>https://www.youtube.com/shorts/HTdNv8yAIA4</link>
-      <guid isPermaLink="false">HTdNv8yAIA4</guid>
-      <pubDate>Fri, 15 May 2026 00:56:08 +0000</pubDate>
-      <author>Auburn Tigers on AL.com</author>
-      <description></description>
-      <media:thumbnail url="https://i1.ytimg.com/vi/HTdNv8yAIA4/hqdefault.jpg" width="480" height="360"/>
-      <media:content url="https://www.youtube.com/watch?v=HTdNv8yAIA4" medium="video"/>
     </item>
   </channel>
 </rss>
