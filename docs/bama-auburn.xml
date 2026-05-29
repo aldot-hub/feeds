@@ -4,8 +4,38 @@
     <title>AL.com Sports - Alabama &amp; Auburn Videos</title>
     <link>https://www.al.com</link>
     <description>Combined video feed from Alabama Crimson Tide and Auburn Tigers on AL.com</description>
-    <lastBuildDate>Thu, 28 May 2026 21:04:44 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 29 May 2026 10:55:01 +0000</lastBuildDate>
     <atom:link rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Alabama’s softball players are asked what God has taught them this season about themselves. #RTR</title>
+      <link>https://www.youtube.com/shorts/3VU8qYAha-s</link>
+      <guid isPermaLink="false">3VU8qYAha-s</guid>
+      <pubDate>Fri, 29 May 2026 02:37:37 +0000</pubDate>
+      <author>Alabama Crimson Tide on AL.com</author>
+      <description></description>
+      <media:thumbnail url="https://i4.ytimg.com/vi/3VU8qYAha-s/hqdefault.jpg" width="480" height="360"/>
+      <media:content url="https://www.youtube.com/watch?v=3VU8qYAha-s" medium="video"/>
+    </item>
+    <item>
+      <title>Alabama recaps its win over UCLA in the Women's College World Series</title>
+      <link>https://www.youtube.com/watch?v=AMLQr4wFg1M</link>
+      <guid isPermaLink="false">AMLQr4wFg1M</guid>
+      <pubDate>Fri, 29 May 2026 01:58:03 +0000</pubDate>
+      <author>Alabama Crimson Tide on AL.com</author>
+      <description>The Crimson Tide rallied from a two-run while Jocelyn Briski struck out nine batters.</description>
+      <media:thumbnail url="https://i2.ytimg.com/vi/AMLQr4wFg1M/hqdefault.jpg" width="480" height="360"/>
+      <media:content url="https://www.youtube.com/watch?v=AMLQr4wFg1M" medium="video"/>
+    </item>
+    <item>
+      <title>Butch Thompson on why he’s so excited about this year’s team heading into Auburn’s regional</title>
+      <link>https://www.youtube.com/shorts/TKu8EVC_Tvw</link>
+      <guid isPermaLink="false">TKu8EVC_Tvw</guid>
+      <pubDate>Thu, 28 May 2026 21:21:11 +0000</pubDate>
+      <author>Auburn Tigers on AL.com</author>
+      <description></description>
+      <media:thumbnail url="https://i1.ytimg.com/vi/TKu8EVC_Tvw/hqdefault.jpg" width="480" height="360"/>
+      <media:content url="https://www.youtube.com/watch?v=TKu8EVC_Tvw" medium="video"/>
+    </item>
     <item>
       <title>Butch Thompson previews No. 4 national seed Auburn baseball's regional; NCAA tournament play</title>
       <link>https://www.youtube.com/watch?v=soV2BvKjz0E</link>
@@ -198,26 +228,6 @@ AL.com media coverage presented by Inline Electric Supply Co. Inc.</description>
       <media:content url="https://www.youtube.com/watch?v=EVcSgiW05Qk" medium="video"/>
     </item>
     <item>
-      <title>Alabama beat writer Nick Kelly ranks the Crimson Tide’s 2026 foes from easiest to most difficult.</title>
-      <link>https://www.youtube.com/shorts/B81HUW8X-K8</link>
-      <guid isPermaLink="false">B81HUW8X-K8</guid>
-      <pubDate>Thu, 21 May 2026 22:14:22 +0000</pubDate>
-      <author>Alabama Crimson Tide on AL.com</author>
-      <description></description>
-      <media:thumbnail url="https://i3.ytimg.com/vi/B81HUW8X-K8/hqdefault.jpg" width="480" height="360"/>
-      <media:content url="https://www.youtube.com/watch?v=B81HUW8X-K8" medium="video"/>
-    </item>
-    <item>
-      <title>😳 What it was like to walk out of the locker room with Nick Saban and the Alabama Crimson Tide #RTR</title>
-      <link>https://www.youtube.com/shorts/NKaPwRlaANE</link>
-      <guid isPermaLink="false">NKaPwRlaANE</guid>
-      <pubDate>Thu, 21 May 2026 17:00:17 +0000</pubDate>
-      <author>Alabama Crimson Tide on AL.com</author>
-      <description></description>
-      <media:thumbnail url="https://i3.ytimg.com/vi/NKaPwRlaANE/hqdefault.jpg" width="480" height="360"/>
-      <media:content url="https://www.youtube.com/watch?v=NKaPwRlaANE" medium="video"/>
-    </item>
-    <item>
       <title>Shaq was introduced as “Shaquille ‘I Hate Charles Barkley’ O’Neal” during his LSU graduation 🤣</title>
       <link>https://www.youtube.com/shorts/zCAUAZUZujM</link>
       <guid isPermaLink="false">zCAUAZUZujM</guid>
@@ -306,16 +316,6 @@ AL.com media coverage presented by Inline Electric Supply Co. Inc.</description>
       <description></description>
       <media:thumbnail url="https://i1.ytimg.com/vi/HTdNv8yAIA4/hqdefault.jpg" width="480" height="360"/>
       <media:content url="https://www.youtube.com/watch?v=HTdNv8yAIA4" medium="video"/>
-    </item>
-    <item>
-      <title>A LEGO model of Auburn’s campus was conceived by Jack Lawson, and uses 22,700 LEGO pieces. #WarEagle</title>
-      <link>https://www.youtube.com/shorts/85tYseHJhek</link>
-      <guid isPermaLink="false">85tYseHJhek</guid>
-      <pubDate>Thu, 14 May 2026 17:49:38 +0000</pubDate>
-      <author>Auburn Tigers on AL.com</author>
-      <description></description>
-      <media:thumbnail url="https://i1.ytimg.com/vi/85tYseHJhek/hqdefault.jpg" width="480" height="360"/>
-      <media:content url="https://www.youtube.com/watch?v=85tYseHJhek" medium="video"/>
     </item>
   </channel>
 </rss>
