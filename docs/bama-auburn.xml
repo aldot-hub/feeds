@@ -4,8 +4,18 @@
     <title>AL.com Sports - Alabama &amp; Auburn Videos</title>
     <link>https://www.al.com</link>
     <description>Combined video feed from Alabama Crimson Tide and Auburn Tigers on AL.com</description>
-    <lastBuildDate>Sun, 31 May 2026 15:05:06 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 31 May 2026 19:50:53 +0000</lastBuildDate>
     <atom:link rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Auburn baseball's postgame press conference after the Tigers knocked off N.C. State</title>
+      <link>https://www.youtube.com/watch?v=JUOBJ15jmlE</link>
+      <guid isPermaLink="false">JUOBJ15jmlE</guid>
+      <pubDate>Sun, 31 May 2026 18:18:56 +0000</pubDate>
+      <author>Auburn Tigers on AL.com</author>
+      <description></description>
+      <media:thumbnail url="https://i3.ytimg.com/vi/JUOBJ15jmlE/hqdefault.jpg" width="480" height="360"/>
+      <media:content url="https://www.youtube.com/watch?v=JUOBJ15jmlE" medium="video"/>
+    </item>
     <item>
       <title>Rob Vaughn discusses why leaving Hoover earlier than they’d hoped actually ended up being a benefit</title>
       <link>https://www.youtube.com/shorts/UULrzIchf7s</link>
@@ -310,16 +320,6 @@ AL.com media coverage presented by Inline Electric Supply Co. Inc.</description>
       <description>Alabama senator and former Auburn head coach Tommy Tuberville spoke about NIL and the transfer portal's impact on collegiate athletics and the legislation he hopes might "save college sports."</description>
       <media:thumbnail url="https://i4.ytimg.com/vi/_rWDp3KqpAA/hqdefault.jpg" width="480" height="360"/>
       <media:content url="https://www.youtube.com/watch?v=_rWDp3KqpAA" medium="video"/>
-    </item>
-    <item>
-      <title>Auburn's Alex Golesh on building connectivity before the season begins</title>
-      <link>https://www.youtube.com/watch?v=YHZvGBs0z5c</link>
-      <guid isPermaLink="false">YHZvGBs0z5c</guid>
-      <pubDate>Sat, 16 May 2026 19:50:58 +0000</pubDate>
-      <author>Auburn Tigers on AL.com</author>
-      <description>Auburn football coach Alex Golesh speaks with reporters in Montgomery during the Jimmy Rane Charity Golf Tournament Banquet.</description>
-      <media:thumbnail url="https://i2.ytimg.com/vi/YHZvGBs0z5c/hqdefault.jpg" width="480" height="360"/>
-      <media:content url="https://www.youtube.com/watch?v=YHZvGBs0z5c" medium="video"/>
     </item>
   </channel>
 </rss>
