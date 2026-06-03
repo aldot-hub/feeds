@@ -4,8 +4,18 @@
     <title>AL.com Sports - Alabama &amp; Auburn Videos</title>
     <link>https://www.al.com</link>
     <description>Combined video feed from Alabama Crimson Tide and Auburn Tigers on AL.com</description>
-    <lastBuildDate>Wed, 03 Jun 2026 15:57:43 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 03 Jun 2026 23:15:19 +0000</lastBuildDate>
     <atom:link rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Steven Pearl spoke about NIL and Auburn's upcoming schedule at the Rocket City Classic luncheon</title>
+      <link>https://www.youtube.com/watch?v=8U9CRDgRAh0</link>
+      <guid isPermaLink="false">8U9CRDgRAh0</guid>
+      <pubDate>Wed, 03 Jun 2026 21:09:36 +0000</pubDate>
+      <author>Auburn Tigers on AL.com</author>
+      <description>Steven Pearl spoke about NIL and Auburn's upcoming schedule at the Rocket City Classic luncheon in Huntsville Wednesday.</description>
+      <media:thumbnail url="https://i1.ytimg.com/vi/8U9CRDgRAh0/hqdefault.jpg" width="480" height="360"/>
+      <media:content url="https://www.youtube.com/watch?v=8U9CRDgRAh0" medium="video"/>
+    </item>
     <item>
       <title>“You have the blueprint.” Alabama’s Patrick Murphy on the value of his team’s experience at the WCWS</title>
       <link>https://www.youtube.com/shorts/GeqYNoFrzTM</link>
@@ -310,16 +320,6 @@ AL.com media coverage presented by Inline Electric Supply Co. Inc.</description>
       <description></description>
       <media:thumbnail url="https://i2.ytimg.com/vi/EVcSgiW05Qk/hqdefault.jpg" width="480" height="360"/>
       <media:content url="https://www.youtube.com/watch?v=EVcSgiW05Qk" medium="video"/>
-    </item>
-    <item>
-      <title>Shaq was introduced as “Shaquille ‘I Hate Charles Barkley’ O’Neal” during his LSU graduation 🤣</title>
-      <link>https://www.youtube.com/shorts/zCAUAZUZujM</link>
-      <guid isPermaLink="false">zCAUAZUZujM</guid>
-      <pubDate>Tue, 19 May 2026 17:25:12 +0000</pubDate>
-      <author>Auburn Tigers on AL.com</author>
-      <description></description>
-      <media:thumbnail url="https://i3.ytimg.com/vi/zCAUAZUZujM/hqdefault.jpg" width="480" height="360"/>
-      <media:content url="https://www.youtube.com/watch?v=zCAUAZUZujM" medium="video"/>
     </item>
   </channel>
 </rss>
