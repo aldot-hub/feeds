@@ -4,8 +4,38 @@
     <title>AL.com Sports - Alabama &amp; Auburn Videos</title>
     <link>https://www.al.com</link>
     <description>Combined video feed from Alabama Crimson Tide and Auburn Tigers on AL.com</description>
-    <lastBuildDate>Sat, 06 Jun 2026 20:46:29 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 07 Jun 2026 08:37:23 +0000</lastBuildDate>
     <atom:link rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Alabama defeats St. John's: Coach Rob Vaughn, Brennan Holt &amp; Tyler Fay recap Super Regional win.</title>
+      <link>https://www.youtube.com/watch?v=uh0BcGtsbTo</link>
+      <guid isPermaLink="false">uh0BcGtsbTo</guid>
+      <pubDate>Sun, 07 Jun 2026 05:00:20 +0000</pubDate>
+      <author>Alabama Crimson Tide on AL.com</author>
+      <description>The Crimson Tide is just one win away from their first NCAA Men's College World Series appearance since 1999. Coach Rob Vaughn, Brennan Holt &amp; Tyler Fay recap Alabama's Super Regional win over St. John's</description>
+      <media:thumbnail url="https://i2.ytimg.com/vi/uh0BcGtsbTo/hqdefault.jpg" width="480" height="360"/>
+      <media:content url="https://www.youtube.com/watch?v=uh0BcGtsbTo" medium="video"/>
+    </item>
+    <item>
+      <title>Auburn’s Eric Guevara on what the past two seasons has meant to him. #wareagle #auburnbaseball</title>
+      <link>https://www.youtube.com/shorts/6ai_lJKhYP0</link>
+      <guid isPermaLink="false">6ai_lJKhYP0</guid>
+      <pubDate>Sun, 07 Jun 2026 02:07:49 +0000</pubDate>
+      <author>Auburn Tigers on AL.com</author>
+      <description></description>
+      <media:thumbnail url="https://i3.ytimg.com/vi/6ai_lJKhYP0/hqdefault.jpg" width="480" height="360"/>
+      <media:content url="https://www.youtube.com/watch?v=6ai_lJKhYP0" medium="video"/>
+    </item>
+    <item>
+      <title>Butch Thompson and players on Auburn being eliminated from NCAA tournament by Ole Miss</title>
+      <link>https://www.youtube.com/watch?v=L_Om3hJulzs</link>
+      <guid isPermaLink="false">L_Om3hJulzs</guid>
+      <pubDate>Sun, 07 Jun 2026 01:40:44 +0000</pubDate>
+      <author>Auburn Tigers on AL.com</author>
+      <description></description>
+      <media:thumbnail url="https://i1.ytimg.com/vi/L_Om3hJulzs/hqdefault.jpg" width="480" height="360"/>
+      <media:content url="https://www.youtube.com/watch?v=L_Om3hJulzs" medium="video"/>
+    </item>
     <item>
       <title>Butch Thompson and Mason McCraine address the media following Auburn's game 1 loss to Ole Miss</title>
       <link>https://www.youtube.com/watch?v=lwnKqHPzFzg</link>
@@ -267,16 +297,6 @@ Video courtesy of Auburn Athletics</description>
       <media:content url="https://www.youtube.com/watch?v=-jpjnvXD7jQ" medium="video"/>
     </item>
     <item>
-      <title>Alabama’s Brady Neal on battling adversity through the season and being there for his team.</title>
-      <link>https://www.youtube.com/shorts/foJ-ogA9u9o</link>
-      <guid isPermaLink="false">foJ-ogA9u9o</guid>
-      <pubDate>Mon, 01 Jun 2026 05:47:01 +0000</pubDate>
-      <author>Alabama Crimson Tide on AL.com</author>
-      <description></description>
-      <media:thumbnail url="https://i3.ytimg.com/vi/foJ-ogA9u9o/hqdefault.jpg" width="480" height="360"/>
-      <media:content url="https://www.youtube.com/watch?v=foJ-ogA9u9o" medium="video"/>
-    </item>
-    <item>
       <title>Auburn baseball's postgame press conference after the Tigers knocked off N.C. State</title>
       <link>https://www.youtube.com/watch?v=JUOBJ15jmlE</link>
       <guid isPermaLink="false">JUOBJ15jmlE</guid>
@@ -295,26 +315,6 @@ Video courtesy of Auburn Athletics</description>
       <description></description>
       <media:thumbnail url="https://i2.ytimg.com/vi/utQ2VKcjPnE/hqdefault.jpg" width="480" height="360"/>
       <media:content url="https://www.youtube.com/watch?v=utQ2VKcjPnE" medium="video"/>
-    </item>
-    <item>
-      <title>Auburn addresses loss to Milwaukee in first game of NCAA Regional</title>
-      <link>https://www.youtube.com/watch?v=C6-mdDbBPB4</link>
-      <guid isPermaLink="false">C6-mdDbBPB4</guid>
-      <pubDate>Fri, 29 May 2026 22:21:12 +0000</pubDate>
-      <author>Auburn Tigers on AL.com</author>
-      <description>Auburn, the No. 4 overall seed in the NCAA Tournament, fell behind 10-0 before losing 13-8 to Milwaukee</description>
-      <media:thumbnail url="https://i4.ytimg.com/vi/C6-mdDbBPB4/hqdefault.jpg" width="480" height="360"/>
-      <media:content url="https://www.youtube.com/watch?v=C6-mdDbBPB4" medium="video"/>
-    </item>
-    <item>
-      <title>Butch Thompson on why he’s so excited about this year’s team heading into Auburn’s regional</title>
-      <link>https://www.youtube.com/shorts/TKu8EVC_Tvw</link>
-      <guid isPermaLink="false">TKu8EVC_Tvw</guid>
-      <pubDate>Thu, 28 May 2026 21:21:11 +0000</pubDate>
-      <author>Auburn Tigers on AL.com</author>
-      <description></description>
-      <media:thumbnail url="https://i1.ytimg.com/vi/TKu8EVC_Tvw/hqdefault.jpg" width="480" height="360"/>
-      <media:content url="https://www.youtube.com/watch?v=TKu8EVC_Tvw" medium="video"/>
     </item>
   </channel>
 </rss>
