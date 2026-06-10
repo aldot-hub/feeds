@@ -4,8 +4,18 @@
     <title>AL.com Sports - Alabama &amp; Auburn Videos</title>
     <link>https://www.al.com</link>
     <description>Combined video feed from Alabama Crimson Tide and Auburn Tigers on AL.com</description>
-    <lastBuildDate>Wed, 10 Jun 2026 11:58:20 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 10 Jun 2026 21:24:16 +0000</lastBuildDate>
     <atom:link rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Lionel Messi signs autographs for fans in Auburn after he scored in Argentina’s 3-0 win over Iceland</title>
+      <link>https://www.youtube.com/shorts/xu_JlQ8HpTI</link>
+      <guid isPermaLink="false">xu_JlQ8HpTI</guid>
+      <pubDate>Wed, 10 Jun 2026 15:46:11 +0000</pubDate>
+      <author>Auburn Tigers on AL.com</author>
+      <description></description>
+      <media:thumbnail url="https://i1.ytimg.com/vi/xu_JlQ8HpTI/hqdefault.jpg" width="480" height="360"/>
+      <media:content url="https://www.youtube.com/watch?v=xu_JlQ8HpTI" medium="video"/>
+    </item>
     <item>
       <title>The energy at Jordan-Hare 🤌 #WarEagle</title>
       <link>https://www.youtube.com/shorts/ccNt-8ZpEWc</link>
@@ -239,18 +249,6 @@ Video courtesy of Jim Sinor
       <description></description>
       <media:thumbnail url="https://i1.ytimg.com/vi/L_Om3hJulzs/hqdefault.jpg" width="480" height="360"/>
       <media:content url="https://www.youtube.com/watch?v=L_Om3hJulzs" medium="video"/>
-    </item>
-    <item>
-      <title>Butch Thompson and Mason McCraine address the media following Auburn's game 1 loss to Ole Miss</title>
-      <link>https://www.youtube.com/watch?v=lwnKqHPzFzg</link>
-      <guid isPermaLink="false">lwnKqHPzFzg</guid>
-      <pubDate>Sat, 06 Jun 2026 04:33:58 +0000</pubDate>
-      <author>Auburn Tigers on AL.com</author>
-      <description>Butch Thompson and Mason McCraine answer questions from the media following the Tigers' 6-4 loss to Ole Miss in game one of the Auburn Super Regional.
-
-Video courtesy of Auburn Athletics</description>
-      <media:thumbnail url="https://i1.ytimg.com/vi/lwnKqHPzFzg/hqdefault.jpg" width="480" height="360"/>
-      <media:content url="https://www.youtube.com/watch?v=lwnKqHPzFzg" medium="video"/>
     </item>
     <item>
       <title>Rob Vaughn: “We know it’s going to be a war, but I think these guys are ready for it.”</title>
