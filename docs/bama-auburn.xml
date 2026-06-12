@@ -4,8 +4,18 @@
     <title>AL.com Sports - Alabama &amp; Auburn Videos</title>
     <link>https://www.al.com</link>
     <description>Combined video feed from Alabama Crimson Tide and Auburn Tigers on AL.com</description>
-    <lastBuildDate>Thu, 11 Jun 2026 21:28:30 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 12 Jun 2026 11:51:33 +0000</lastBuildDate>
     <atom:link rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Alabama is hitting the cage for practice in Omaha. Tide vs. Sooners Saturday 2 PM CT on ESPN.</title>
+      <link>https://www.youtube.com/shorts/yjj0z4mRKvU</link>
+      <guid isPermaLink="false">yjj0z4mRKvU</guid>
+      <pubDate>Thu, 11 Jun 2026 21:34:46 +0000</pubDate>
+      <author>Alabama Crimson Tide on AL.com</author>
+      <description></description>
+      <media:thumbnail url="https://i2.ytimg.com/vi/yjj0z4mRKvU/hqdefault.jpg" width="480" height="360"/>
+      <media:content url="https://www.youtube.com/watch?v=yjj0z4mRKvU" medium="video"/>
+    </item>
     <item>
       <title>Infielder Brady Neal on Alabama’s focus on winning it all in the CWS.#rolltide</title>
       <link>https://www.youtube.com/shorts/UCzmqb4U9G0</link>
@@ -309,16 +319,6 @@ Video courtesy of Jim Sinor
       <description>Nick Saban is going to save college football. And with the federal government's help. Tat's a sure bet, right? Nick Saban testified before the Senate Commerce, Science and Transportation Committee this week about college sports in an ongoing effort to protect competition and support student athletes. The former Alabama coach has become the face of this college athletics reform. He said the bill creates competitive balance, parity, and an opportunity to have a framework to build a fair-play system. Is he right? And is Saban the messenger college sports need for something to change? AL.com reporter and columnist Michael Casagrande joins "Beat Everyone" to break it all down!</description>
       <media:thumbnail url="https://i3.ytimg.com/vi/NwG-TTOrrhg/hqdefault.jpg" width="480" height="360"/>
       <media:content url="https://www.youtube.com/watch?v=NwG-TTOrrhg" medium="video"/>
-    </item>
-    <item>
-      <title>“Somebody needs to tap the brakes.” Nick Saban testifies before Senate on protecting college sports.</title>
-      <link>https://www.youtube.com/shorts/JQl-ayovcLU</link>
-      <guid isPermaLink="false">JQl-ayovcLU</guid>
-      <pubDate>Thu, 04 Jun 2026 20:24:14 +0000</pubDate>
-      <author>Alabama Crimson Tide on AL.com</author>
-      <description></description>
-      <media:thumbnail url="https://i3.ytimg.com/vi/JQl-ayovcLU/hqdefault.jpg" width="480" height="360"/>
-      <media:content url="https://www.youtube.com/watch?v=JQl-ayovcLU" medium="video"/>
     </item>
   </channel>
 </rss>
