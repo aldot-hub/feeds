@@ -4,8 +4,18 @@
     <title>AL.com Sports - Alabama &amp; Auburn Videos</title>
     <link>https://www.al.com</link>
     <description>Combined video feed from Alabama Crimson Tide and Auburn Tigers on AL.com</description>
-    <lastBuildDate>Sat, 13 Jun 2026 15:52:45 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 13 Jun 2026 20:49:16 +0000</lastBuildDate>
     <atom:link rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Alabama baseball is getting ready for its matchup with Oklahoma to open the College World Series!</title>
+      <link>https://www.youtube.com/shorts/zBkJAmpFCsw</link>
+      <guid isPermaLink="false">zBkJAmpFCsw</guid>
+      <pubDate>Sat, 13 Jun 2026 18:45:14 +0000</pubDate>
+      <author>Alabama Crimson Tide on AL.com</author>
+      <description></description>
+      <media:thumbnail url="https://i3.ytimg.com/vi/zBkJAmpFCsw/hqdefault.jpg" width="480" height="360"/>
+      <media:content url="https://www.youtube.com/watch?v=zBkJAmpFCsw" medium="video"/>
+    </item>
     <item>
       <title>Alabama is hitting the cage for practice in Omaha. Tide vs. Sooners Saturday 2 PM CT on ESPN.</title>
       <link>https://www.youtube.com/shorts/yjj0z4mRKvU</link>
@@ -309,16 +319,6 @@ Video courtesy of Jim Sinor
       <description>Alabama head coach Rob Vaughn and players Justin Lebron and Bryce Fowler preview the Crimson Tide's Super Regionals match up with St. John's.</description>
       <media:thumbnail url="https://i4.ytimg.com/vi/oIYf6zLWmFw/hqdefault.jpg" width="480" height="360"/>
       <media:content url="https://www.youtube.com/watch?v=oIYf6zLWmFw" medium="video"/>
-    </item>
-    <item>
-      <title>Can Nick Saban SAVE college football? 🙏🏻 Is the GOAT the right messenger?</title>
-      <link>https://www.youtube.com/watch?v=NwG-TTOrrhg</link>
-      <guid isPermaLink="false">NwG-TTOrrhg</guid>
-      <pubDate>Thu, 04 Jun 2026 23:30:33 +0000</pubDate>
-      <author>Alabama Crimson Tide on AL.com</author>
-      <description>Nick Saban is going to save college football. And with the federal government's help. Tat's a sure bet, right? Nick Saban testified before the Senate Commerce, Science and Transportation Committee this week about college sports in an ongoing effort to protect competition and support student athletes. The former Alabama coach has become the face of this college athletics reform. He said the bill creates competitive balance, parity, and an opportunity to have a framework to build a fair-play system. Is he right? And is Saban the messenger college sports need for something to change? AL.com reporter and columnist Michael Casagrande joins "Beat Everyone" to break it all down!</description>
-      <media:thumbnail url="https://i3.ytimg.com/vi/NwG-TTOrrhg/hqdefault.jpg" width="480" height="360"/>
-      <media:content url="https://www.youtube.com/watch?v=NwG-TTOrrhg" medium="video"/>
     </item>
   </channel>
 </rss>
