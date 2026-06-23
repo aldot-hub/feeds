@@ -4,8 +4,18 @@
     <title>AL.com Sports - Alabama &amp; Auburn Videos</title>
     <link>https://www.al.com</link>
     <description>Combined video feed from Alabama Crimson Tide and Auburn Tigers on AL.com</description>
-    <lastBuildDate>Tue, 23 Jun 2026 17:30:28 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 23 Jun 2026 22:07:21 +0000</lastBuildDate>
     <atom:link rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Labaron Philon on Tide’s playstyle: “We’re all trying to get the best shot.”</title>
+      <link>https://www.youtube.com/shorts/ZkZs99B_bVY</link>
+      <guid isPermaLink="false">ZkZs99B_bVY</guid>
+      <pubDate>Tue, 23 Jun 2026 18:49:55 +0000</pubDate>
+      <author>Alabama Crimson Tide on AL.com</author>
+      <description></description>
+      <media:thumbnail url="https://i3.ytimg.com/vi/ZkZs99B_bVY/hqdefault.jpg" width="480" height="360"/>
+      <media:content url="https://www.youtube.com/watch?v=ZkZs99B_bVY" medium="video"/>
+    </item>
     <item>
       <title>Labaron Philon prepares for NBA Draft, speaks on skillset, playstyle and experience at Alabama</title>
       <link>https://www.youtube.com/watch?v=wBDSOsSSrho</link>
@@ -169,16 +179,6 @@
       <description></description>
       <media:thumbnail url="https://i3.ytimg.com/vi/ZNr4fLDdjP4/hqdefault.jpg" width="480" height="360"/>
       <media:content url="https://www.youtube.com/watch?v=ZNr4fLDdjP4" medium="video"/>
-    </item>
-    <item>
-      <title>Alabama coach Rob Vaughn on the fight in his players when knocked down. #rolltide</title>
-      <link>https://www.youtube.com/shorts/hwmcjO4Wjvg</link>
-      <guid isPermaLink="false">hwmcjO4Wjvg</guid>
-      <pubDate>Sun, 14 Jun 2026 02:34:08 +0000</pubDate>
-      <author>Alabama Crimson Tide on AL.com</author>
-      <description></description>
-      <media:thumbnail url="https://i1.ytimg.com/vi/hwmcjO4Wjvg/hqdefault.jpg" width="480" height="360"/>
-      <media:content url="https://www.youtube.com/watch?v=hwmcjO4Wjvg" medium="video"/>
     </item>
     <item>
       <title>Suni Lee made her debut at Auburn on Jan. 21, 2022, less than six months after winning Olympic gold</title>
