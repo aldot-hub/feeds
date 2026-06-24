@@ -4,8 +4,18 @@
     <title>AL.com Sports - Alabama &amp; Auburn Videos</title>
     <link>https://www.al.com</link>
     <description>Combined video feed from Alabama Crimson Tide and Auburn Tigers on AL.com</description>
-    <lastBuildDate>Wed, 24 Jun 2026 17:31:07 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jun 2026 22:03:01 +0000</lastBuildDate>
     <atom:link rel="self" type="application/rss+xml"/>
+    <item>
+      <title>If Alabama does THIS, could win it ALL!</title>
+      <link>https://www.youtube.com/shorts/2bDERwrypqA</link>
+      <guid isPermaLink="false">2bDERwrypqA</guid>
+      <pubDate>Wed, 24 Jun 2026 20:15:19 +0000</pubDate>
+      <author>Alabama Crimson Tide on AL.com</author>
+      <description>Fill in the blank: If Alabama ________, they can win the national championship in 2026. AL.com's Matt Stahl shares his answer on "Beat Everyone."</description>
+      <media:thumbnail url="https://i3.ytimg.com/vi/2bDERwrypqA/hqdefault.jpg" width="480" height="360"/>
+      <media:content url="https://www.youtube.com/watch?v=2bDERwrypqA" medium="video"/>
+    </item>
     <item>
       <title>Labaron Philon on Tide’s playstyle: “We’re all trying to get the best shot.”</title>
       <link>https://www.youtube.com/shorts/ZkZs99B_bVY</link>
@@ -169,16 +179,6 @@
       <description></description>
       <media:thumbnail url="https://i1.ytimg.com/vi/DdI4Zw8UTaQ/hqdefault.jpg" width="480" height="360"/>
       <media:content url="https://www.youtube.com/watch?v=DdI4Zw8UTaQ" medium="video"/>
-    </item>
-    <item>
-      <title>Alabama’s first trip to the Men’s College World Series since 1999 ends with a 14-2 loss to Texas.</title>
-      <link>https://www.youtube.com/shorts/ZNr4fLDdjP4</link>
-      <guid isPermaLink="false">ZNr4fLDdjP4</guid>
-      <pubDate>Mon, 15 Jun 2026 22:00:34 +0000</pubDate>
-      <author>Alabama Crimson Tide on AL.com</author>
-      <description></description>
-      <media:thumbnail url="https://i3.ytimg.com/vi/ZNr4fLDdjP4/hqdefault.jpg" width="480" height="360"/>
-      <media:content url="https://www.youtube.com/watch?v=ZNr4fLDdjP4" medium="video"/>
     </item>
     <item>
       <title>Suni Lee made her debut at Auburn on Jan. 21, 2022, less than six months after winning Olympic gold</title>
