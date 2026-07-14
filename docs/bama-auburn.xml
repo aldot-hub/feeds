@@ -4,8 +4,30 @@
     <title>AL.com Sports - Alabama &amp; Auburn Videos</title>
     <link>https://www.al.com</link>
     <description>Combined video feed from Alabama Crimson Tide and Auburn Tigers on AL.com</description>
-    <lastBuildDate>Tue, 14 Jul 2026 15:57:19 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 14 Jul 2026 17:15:13 +0000</lastBuildDate>
     <atom:link rel="self" type="application/rss+xml"/>
+    <item>
+      <title>We must protect Charles Barkley at all costs😂#wareagle 🎥: Taggart</title>
+      <link>https://www.youtube.com/shorts/xN7pmjAhbIo</link>
+      <guid isPermaLink="false">xN7pmjAhbIo</guid>
+      <pubDate>Tue, 14 Jul 2026 16:57:43 +0000</pubDate>
+      <author>Auburn Tigers on AL.com</author>
+      <description></description>
+      <media:thumbnail url="https://i1.ytimg.com/vi/xN7pmjAhbIo/hqdefault.jpg" width="480" height="360"/>
+      <media:content url="https://www.youtube.com/watch?v=xN7pmjAhbIo" medium="video"/>
+    </item>
+    <item>
+      <title>2019: Saban is asked to name the best college QB he’s ever seen. Would his answer be the same now?</title>
+      <link>https://www.youtube.com/shorts/fnfHKg3gYx4</link>
+      <guid isPermaLink="false">fnfHKg3gYx4</guid>
+      <pubDate>Tue, 14 Jul 2026 16:46:32 +0000</pubDate>
+      <author>Alabama Crimson Tide on AL.com</author>
+      <description>In 2019, Nick Saban was asked to name the best quarterback he’s ever seen in college football. Do you think his answer would be the same if he were asked this question today?
+
+#collegefootball #nfl #alabamafootball #rolltide #rtr</description>
+      <media:thumbnail url="https://i3.ytimg.com/vi/fnfHKg3gYx4/hqdefault.jpg" width="480" height="360"/>
+      <media:content url="https://www.youtube.com/watch?v=fnfHKg3gYx4" medium="video"/>
+    </item>
     <item>
       <title>Congrats to former Alabama and current Jets safety Malachi Moore and his wife Ana on their wedding!</title>
       <link>https://www.youtube.com/shorts/NXW-qHv94r0</link>
@@ -183,16 +205,6 @@
       <media:content url="https://www.youtube.com/watch?v=LFEZ52Mhv_A" medium="video"/>
     </item>
     <item>
-      <title>The evolution of Saban Field at Bryant Denny Stadium. What is your favorite memory at BDS?#rolltide</title>
-      <link>https://www.youtube.com/shorts/-fbN7FiIfDY</link>
-      <guid isPermaLink="false">-fbN7FiIfDY</guid>
-      <pubDate>Tue, 23 Jun 2026 15:11:15 +0000</pubDate>
-      <author>Alabama Crimson Tide on AL.com</author>
-      <description></description>
-      <media:thumbnail url="https://i2.ytimg.com/vi/-fbN7FiIfDY/hqdefault.jpg" width="480" height="360"/>
-      <media:content url="https://www.youtube.com/watch?v=-fbN7FiIfDY" medium="video"/>
-    </item>
-    <item>
       <title>Hard to believe it’s been ten years since Derrick Brown enrolled at Auburn 🥹 #wareagle #wde</title>
       <link>https://www.youtube.com/watch?v=QRii8l_pR1o</link>
       <guid isPermaLink="false">QRii8l_pR1o</guid>
@@ -315,16 +327,6 @@ Video courtesy of Jim Sinor
       <description></description>
       <media:thumbnail url="https://i3.ytimg.com/vi/Jn6nJkibIbo/hqdefault.jpg" width="480" height="360"/>
       <media:content url="https://www.youtube.com/watch?v=Jn6nJkibIbo" medium="video"/>
-    </item>
-    <item>
-      <title>Surreal moment as Argentina fans travel to Auburn and watch Lionel Messi.</title>
-      <link>https://www.youtube.com/shorts/KmCgjqBvmG0</link>
-      <guid isPermaLink="false">KmCgjqBvmG0</guid>
-      <pubDate>Wed, 10 Jun 2026 01:11:49 +0000</pubDate>
-      <author>Auburn Tigers on AL.com</author>
-      <description></description>
-      <media:thumbnail url="https://i4.ytimg.com/vi/KmCgjqBvmG0/hqdefault.jpg" width="480" height="360"/>
-      <media:content url="https://www.youtube.com/watch?v=KmCgjqBvmG0" medium="video"/>
     </item>
   </channel>
 </rss>
