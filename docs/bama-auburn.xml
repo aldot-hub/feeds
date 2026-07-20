@@ -4,8 +4,18 @@
     <title>AL.com Sports - Alabama &amp; Auburn Videos</title>
     <link>https://www.al.com</link>
     <description>Combined video feed from Alabama Crimson Tide and Auburn Tigers on AL.com</description>
-    <lastBuildDate>Mon, 20 Jul 2026 22:38:03 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 20 Jul 2026 23:39:02 +0000</lastBuildDate>
     <atom:link rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Josh Heupel on Auburn hiring his former coordinator Alex Golesh</title>
+      <link>https://www.youtube.com/shorts/V2481F_tNTM</link>
+      <guid isPermaLink="false">V2481F_tNTM</guid>
+      <pubDate>Mon, 20 Jul 2026 22:42:41 +0000</pubDate>
+      <author>Auburn Tigers on AL.com</author>
+      <description>Auburn visits Tennessee Oct. 3</description>
+      <media:thumbnail url="https://i3.ytimg.com/vi/V2481F_tNTM/hqdefault.jpg" width="480" height="360"/>
+      <media:content url="https://www.youtube.com/watch?v=V2481F_tNTM" medium="video"/>
+    </item>
     <item>
       <title>Andy Staples shares his take on Alex Golesh at Auburn during SEC Media Days #WarEagle</title>
       <link>https://www.youtube.com/shorts/4eAMU62MWHQ</link>
@@ -305,20 +315,6 @@
       <description></description>
       <media:thumbnail url="https://i1.ytimg.com/vi/DwK0rS_b5Rc/hqdefault.jpg" width="480" height="360"/>
       <media:content url="https://www.youtube.com/watch?v=DwK0rS_b5Rc" medium="video"/>
-    </item>
-    <item>
-      <title>Argentina's Lionel Messi waves to fans as he walks off the field at Jordan-Hare Stadium 🤩⚽️🦅🐯🇦🇷</title>
-      <link>https://www.youtube.com/shorts/Y_QpIXrPiis</link>
-      <guid isPermaLink="false">Y_QpIXrPiis</guid>
-      <pubDate>Wed, 10 Jun 2026 03:44:59 +0000</pubDate>
-      <author>Auburn Tigers on AL.com</author>
-      <description>Lionel Messi waves to fans as he walks off the field at Jordan-Hare Stadium, where he scored a goal in Argentina’s 3-0 win over Iceland. 🤩⚽️🦅🐯🇦🇷
-
-🎥: Will McLelland 
-
-#wareagle #auburn #wde #messi #futbol</description>
-      <media:thumbnail url="https://i2.ytimg.com/vi/Y_QpIXrPiis/hqdefault.jpg" width="480" height="360"/>
-      <media:content url="https://www.youtube.com/watch?v=Y_QpIXrPiis" medium="video"/>
     </item>
   </channel>
 </rss>
