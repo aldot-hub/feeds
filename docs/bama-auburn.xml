@@ -4,8 +4,18 @@
     <title>AL.com Sports - Alabama &amp; Auburn Videos</title>
     <link>https://www.al.com</link>
     <description>Combined video feed from Alabama Crimson Tide and Auburn Tigers on AL.com</description>
-    <lastBuildDate>Mon, 20 Jul 2026 15:19:44 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 20 Jul 2026 16:52:37 +0000</lastBuildDate>
     <atom:link rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Eliah Drinkwitz is asked about Gus Malzahn joining the College Football Playoff selection committee.</title>
+      <link>https://www.youtube.com/shorts/tNDQQPhqh3I</link>
+      <guid isPermaLink="false">tNDQQPhqh3I</guid>
+      <pubDate>Mon, 20 Jul 2026 16:08:07 +0000</pubDate>
+      <author>Auburn Tigers on AL.com</author>
+      <description></description>
+      <media:thumbnail url="https://i1.ytimg.com/vi/tNDQQPhqh3I/hqdefault.jpg" width="480" height="360"/>
+      <media:content url="https://www.youtube.com/watch?v=tNDQQPhqh3I" medium="video"/>
+    </item>
     <item>
       <title>Was he Mac Jones' CRAZIEST teammate?!</title>
       <link>https://www.youtube.com/shorts/RrTm-tStT00</link>
@@ -317,16 +327,6 @@ Video courtesy of Jim Sinor
 #argentina #iceland #auburn #wareagle #futbol</description>
       <media:thumbnail url="https://i2.ytimg.com/vi/MZ2MFOwAB94/hqdefault.jpg" width="480" height="360"/>
       <media:content url="https://www.youtube.com/watch?v=MZ2MFOwAB94" medium="video"/>
-    </item>
-    <item>
-      <title>⚽️ Soccer fans have descended on Auburn to watch Argentina play Iceland</title>
-      <link>https://www.youtube.com/shorts/LSIFUH27Kko</link>
-      <guid isPermaLink="false">LSIFUH27Kko</guid>
-      <pubDate>Wed, 10 Jun 2026 01:20:53 +0000</pubDate>
-      <author>Auburn Tigers on AL.com</author>
-      <description></description>
-      <media:thumbnail url="https://i1.ytimg.com/vi/LSIFUH27Kko/hqdefault.jpg" width="480" height="360"/>
-      <media:content url="https://www.youtube.com/watch?v=LSIFUH27Kko" medium="video"/>
     </item>
   </channel>
 </rss>
