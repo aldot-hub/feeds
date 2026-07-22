@@ -4,8 +4,18 @@
     <title>AL.com Sports - Alabama &amp; Auburn Videos</title>
     <link>https://www.al.com</link>
     <description>Combined video feed from Alabama Crimson Tide and Auburn Tigers on AL.com</description>
-    <lastBuildDate>Wed, 22 Jul 2026 19:06:07 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 22 Jul 2026 20:20:06 +0000</lastBuildDate>
     <atom:link rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Kalen DeBoer is asked about succeeding Nick Saban at Alabama during SEC Media Days #RollTide</title>
+      <link>https://www.youtube.com/shorts/HgWt_3gkOdA</link>
+      <guid isPermaLink="false">HgWt_3gkOdA</guid>
+      <pubDate>Wed, 22 Jul 2026 19:49:47 +0000</pubDate>
+      <author>Alabama Crimson Tide on AL.com</author>
+      <description></description>
+      <media:thumbnail url="https://i1.ytimg.com/vi/HgWt_3gkOdA/hqdefault.jpg" width="480" height="360"/>
+      <media:content url="https://www.youtube.com/watch?v=HgWt_3gkOdA" medium="video"/>
+    </item>
     <item>
       <title>Alabama DB Bray Hubbard explains why he returned to Tuscaloosa for the 2026 season #RollTide</title>
       <link>https://www.youtube.com/shorts/8Dq2HGveUMw</link>
@@ -47,6 +57,8 @@
       <pubDate>Wed, 22 Jul 2026 18:23:33 +0000</pubDate>
       <author>Auburn Tigers on AL.com</author>
       <description>ESPN’s Peter Burns shares a story about watching Alex Golesh solve a problem in real time — and ended up a part of Coach’s moving crew. 😅
+
+Full episodes of Peter’s podcast can be found on the @regionsbank  YouTube channel!
 
 #wareagle #wde #auburnfootball #auburn #auburntigers</description>
       <media:thumbnail url="https://i4.ytimg.com/vi/KOebOS2yC_M/hqdefault.jpg" width="480" height="360"/>
@@ -309,18 +321,6 @@
       <description>The best college football program that prides itself in dishing out joyless murderball can't be...soft...can it? AL.com columnist Joe Goodman joins Ben Flanagan to break down the national perception of Kalen DeBoer's team heading into the 2026 season. Is anyone confident they can compete to win a national championship? Plus, some thoughts on Nate Oats' future in Tuscaloosa, and we ask: Who is the Alabama football of the 2026 World Cup?</description>
       <media:thumbnail url="https://i1.ytimg.com/vi/XD8T41VRCyk/hqdefault.jpg" width="480" height="360"/>
       <media:content url="https://www.youtube.com/watch?v=XD8T41VRCyk" medium="video"/>
-    </item>
-    <item>
-      <title>2019: Saban is asked to name the best college QB he’s ever seen. Would his answer be the same now?</title>
-      <link>https://www.youtube.com/shorts/fnfHKg3gYx4</link>
-      <guid isPermaLink="false">fnfHKg3gYx4</guid>
-      <pubDate>Tue, 14 Jul 2026 16:46:32 +0000</pubDate>
-      <author>Alabama Crimson Tide on AL.com</author>
-      <description>In 2019, Nick Saban was asked to name the best quarterback he’s ever seen in college football. Do you think his answer would be the same if he were asked this question today?
-
-#collegefootball #nfl #alabamafootball #rolltide #rtr</description>
-      <media:thumbnail url="https://i3.ytimg.com/vi/fnfHKg3gYx4/hqdefault.jpg" width="480" height="360"/>
-      <media:content url="https://www.youtube.com/watch?v=fnfHKg3gYx4" medium="video"/>
     </item>
   </channel>
 </rss>
