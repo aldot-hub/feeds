@@ -4,8 +4,18 @@
     <title>AL.com Sports - Alabama &amp; Auburn Videos</title>
     <link>https://www.al.com</link>
     <description>Combined video feed from Alabama Crimson Tide and Auburn Tigers on AL.com</description>
-    <lastBuildDate>Mon, 03 Aug 2026 21:37:49 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 03 Aug 2026 22:39:06 +0000</lastBuildDate>
     <atom:link rel="self" type="application/rss+xml"/>
+    <item>
+      <title>This is THE greatest play in college football history! What Damien Harris saw</title>
+      <link>https://www.youtube.com/shorts/ZVhh2uyQh7Y</link>
+      <guid isPermaLink="false">ZVhh2uyQh7Y</guid>
+      <pubDate>Mon, 03 Aug 2026 21:57:40 +0000</pubDate>
+      <author>Alabama Crimson Tide on AL.com</author>
+      <description>Legendary Alabama running back Damien Harris had a front row seat for 2nd-and-26, aka the greatest play in the history of college football, when Tua Tagovailoa and DeVonta Smith walked it off for a national title.</description>
+      <media:thumbnail url="https://i3.ytimg.com/vi/ZVhh2uyQh7Y/hqdefault.jpg" width="480" height="360"/>
+      <media:content url="https://www.youtube.com/watch?v=ZVhh2uyQh7Y" medium="video"/>
+    </item>
     <item>
       <title>Why you should NOT doubt Kalen DeBoer 🏈 Alabama's Greatest QB of ALL TIME is...</title>
       <link>https://www.youtube.com/watch?v=H-2WWR7slFo</link>
@@ -235,16 +245,6 @@ Full episodes of Peter’s podcast can be found on the @regionsbank  YouTube cha
       <description>Hubbard is one of Alabama's best returning defensive stars in 2026</description>
       <media:thumbnail url="https://i4.ytimg.com/vi/3tnJBeLbxts/hqdefault.jpg" width="480" height="360"/>
       <media:content url="https://www.youtube.com/watch?v=3tnJBeLbxts" medium="video"/>
-    </item>
-    <item>
-      <title>Kalen DeBoer previews his 3rd season at Alabama during SEC Media Days</title>
-      <link>https://www.youtube.com/watch?v=-ykdLQgu66U</link>
-      <guid isPermaLink="false">-ykdLQgu66U</guid>
-      <pubDate>Wed, 22 Jul 2026 15:50:04 +0000</pubDate>
-      <author>Alabama Crimson Tide on AL.com</author>
-      <description>Alabama opens the 2026 season against East Carolina on Sept. 5</description>
-      <media:thumbnail url="https://i2.ytimg.com/vi/-ykdLQgu66U/hqdefault.jpg" width="480" height="360"/>
-      <media:content url="https://www.youtube.com/watch?v=-ykdLQgu66U" medium="video"/>
     </item>
     <item>
       <title>New QB Byrum Brown on his decision to follow Alex Golesh; what he's learned about Auburn so far</title>
