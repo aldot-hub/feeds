@@ -4,8 +4,28 @@
     <title>AL.com Sports - Alabama &amp; Auburn Videos</title>
     <link>https://www.al.com</link>
     <description>Combined video feed from Alabama Crimson Tide and Auburn Tigers on AL.com</description>
-    <lastBuildDate>Wed, 05 Aug 2026 15:26:21 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 05 Aug 2026 17:00:53 +0000</lastBuildDate>
     <atom:link rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Auburn LB Xavier Atkins on first day of preseason camp</title>
+      <link>https://www.youtube.com/watch?v=qZLah9I11bY</link>
+      <guid isPermaLink="false">qZLah9I11bY</guid>
+      <pubDate>Wed, 05 Aug 2026 16:37:29 +0000</pubDate>
+      <author>Auburn Tigers on AL.com</author>
+      <description></description>
+      <media:thumbnail url="https://i2.ytimg.com/vi/qZLah9I11bY/hqdefault.jpg" width="480" height="360"/>
+      <media:content url="https://www.youtube.com/watch?v=qZLah9I11bY" medium="video"/>
+    </item>
+    <item>
+      <title>First look of Auburn QB Byrum Brown during preseason camp. #wareagle</title>
+      <link>https://www.youtube.com/shorts/XCnYyEZ2WXs</link>
+      <guid isPermaLink="false">XCnYyEZ2WXs</guid>
+      <pubDate>Wed, 05 Aug 2026 15:37:16 +0000</pubDate>
+      <author>Auburn Tigers on AL.com</author>
+      <description></description>
+      <media:thumbnail url="https://i1.ytimg.com/vi/XCnYyEZ2WXs/hqdefault.jpg" width="480" height="360"/>
+      <media:content url="https://www.youtube.com/watch?v=XCnYyEZ2WXs" medium="video"/>
+    </item>
     <item>
       <title>First look at Auburn QB Byrum Brown throwing during preseason camp</title>
       <link>https://www.youtube.com/watch?v=h2SxDjt-tW4</link>
@@ -297,26 +317,6 @@ Full episodes of Peter’s podcast can be found on the @regionsbank  YouTube cha
       <description></description>
       <media:thumbnail url="https://i4.ytimg.com/vi/Gqjg7UZybv8/hqdefault.jpg" width="480" height="360"/>
       <media:content url="https://www.youtube.com/watch?v=Gqjg7UZybv8" medium="video"/>
-    </item>
-    <item>
-      <title>Auburn DB Champ Anthony praises his teammates, Tiger's 'violent' secondary at SEC Media Days</title>
-      <link>https://www.youtube.com/watch?v=_VpgdSZaORY</link>
-      <guid isPermaLink="false">_VpgdSZaORY</guid>
-      <pubDate>Tue, 21 Jul 2026 17:09:02 +0000</pubDate>
-      <author>Auburn Tigers on AL.com</author>
-      <description>Auburn DB Champ Anthony praises his Tiger teammates, his journey from a 0 star recruit to starting corerback in the SEC and his recovery from injuries at 2026 SEC Media Days in Tampa. 🦅🏈 #WarEagle</description>
-      <media:thumbnail url="https://i4.ytimg.com/vi/_VpgdSZaORY/hqdefault.jpg" width="480" height="360"/>
-      <media:content url="https://www.youtube.com/watch?v=_VpgdSZaORY" medium="video"/>
-    </item>
-    <item>
-      <title>Auburn’s Byrum Brown on lemonade, rolling trees and winning football games #WarEagle #SECMediaDays</title>
-      <link>https://www.youtube.com/shorts/do-gkg7y7vg</link>
-      <guid isPermaLink="false">do-gkg7y7vg</guid>
-      <pubDate>Tue, 21 Jul 2026 16:50:53 +0000</pubDate>
-      <author>Auburn Tigers on AL.com</author>
-      <description></description>
-      <media:thumbnail url="https://i1.ytimg.com/vi/do-gkg7y7vg/hqdefault.jpg" width="480" height="360"/>
-      <media:content url="https://www.youtube.com/watch?v=do-gkg7y7vg" medium="video"/>
     </item>
   </channel>
 </rss>
