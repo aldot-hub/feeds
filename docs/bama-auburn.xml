@@ -4,8 +4,40 @@
     <title>AL.com Sports - Alabama &amp; Auburn Videos</title>
     <link>https://www.al.com</link>
     <description>Combined video feed from Alabama Crimson Tide and Auburn Tigers on AL.com</description>
-    <lastBuildDate>Wed, 05 Aug 2026 17:00:53 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 05 Aug 2026 18:48:20 +0000</lastBuildDate>
     <atom:link rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Kalen DeBoer on Tide’s preseason expectations,: “We are definitely aware.”</title>
+      <link>https://www.youtube.com/shorts/l5R-9ReyuVA</link>
+      <guid isPermaLink="false">l5R-9ReyuVA</guid>
+      <pubDate>Wed, 05 Aug 2026 17:41:47 +0000</pubDate>
+      <author>Alabama Crimson Tide on AL.com</author>
+      <description></description>
+      <media:thumbnail url="https://i1.ytimg.com/vi/l5R-9ReyuVA/hqdefault.jpg" width="480" height="360"/>
+      <media:content url="https://www.youtube.com/watch?v=l5R-9ReyuVA" medium="video"/>
+    </item>
+    <item>
+      <title>Everything Alabama HC Kalen DeBoer said following Crimson Tide's fall practice Wednesday</title>
+      <link>https://www.youtube.com/watch?v=tuZipCD61mQ</link>
+      <guid isPermaLink="false">tuZipCD61mQ</guid>
+      <pubDate>Wed, 05 Aug 2026 17:12:09 +0000</pubDate>
+      <author>Alabama Crimson Tide on AL.com</author>
+      <description>Kalen DeBoer spoke with the media Wednesday following Alabama's morning fall practice. Everything the Tide's head coach had to say.
+
+AL.com media coverage presented by Inline Electric Supply Co. Inc.</description>
+      <media:thumbnail url="https://i1.ytimg.com/vi/tuZipCD61mQ/hqdefault.jpg" width="480" height="360"/>
+      <media:content url="https://www.youtube.com/watch?v=tuZipCD61mQ" medium="video"/>
+    </item>
+    <item>
+      <title>Auburn LB Xavier Atkins on the team staying at a hotel for preseason camp. #wareagle</title>
+      <link>https://www.youtube.com/shorts/e4StFNXJ8Y4</link>
+      <guid isPermaLink="false">e4StFNXJ8Y4</guid>
+      <pubDate>Wed, 05 Aug 2026 16:53:57 +0000</pubDate>
+      <author>Auburn Tigers on AL.com</author>
+      <description></description>
+      <media:thumbnail url="https://i2.ytimg.com/vi/e4StFNXJ8Y4/hqdefault.jpg" width="480" height="360"/>
+      <media:content url="https://www.youtube.com/watch?v=e4StFNXJ8Y4" medium="video"/>
+    </item>
     <item>
       <title>Auburn LB Xavier Atkins on first day of preseason camp</title>
       <link>https://www.youtube.com/watch?v=qZLah9I11bY</link>
@@ -219,26 +251,6 @@ AL.com media coverage presented by Inline Electric Supply Co. Inc.</description>
       <media:content url="https://www.youtube.com/watch?v=bF_e7Uz844Q" medium="video"/>
     </item>
     <item>
-      <title>Kalen DeBoer is asked about succeeding Nick Saban at Alabama during SEC Media Days #RollTide</title>
-      <link>https://www.youtube.com/shorts/HgWt_3gkOdA</link>
-      <guid isPermaLink="false">HgWt_3gkOdA</guid>
-      <pubDate>Wed, 22 Jul 2026 19:49:47 +0000</pubDate>
-      <author>Alabama Crimson Tide on AL.com</author>
-      <description></description>
-      <media:thumbnail url="https://i1.ytimg.com/vi/HgWt_3gkOdA/hqdefault.jpg" width="480" height="360"/>
-      <media:content url="https://www.youtube.com/watch?v=HgWt_3gkOdA" medium="video"/>
-    </item>
-    <item>
-      <title>Alabama DB Bray Hubbard explains why he returned to Tuscaloosa for the 2026 season #RollTide</title>
-      <link>https://www.youtube.com/shorts/8Dq2HGveUMw</link>
-      <guid isPermaLink="false">8Dq2HGveUMw</guid>
-      <pubDate>Wed, 22 Jul 2026 18:52:49 +0000</pubDate>
-      <author>Alabama Crimson Tide on AL.com</author>
-      <description></description>
-      <media:thumbnail url="https://i1.ytimg.com/vi/8Dq2HGveUMw/hqdefault.jpg" width="480" height="360"/>
-      <media:content url="https://www.youtube.com/watch?v=8Dq2HGveUMw" medium="video"/>
-    </item>
-    <item>
       <title>QB Byrum Brown is asked “what does the Auburn brand mean to you?” 🥹 #wareagle #wde #auburn</title>
       <link>https://www.youtube.com/shorts/kiP9aGeIoKk</link>
       <guid isPermaLink="false">kiP9aGeIoKk</guid>
@@ -307,16 +319,6 @@ Full episodes of Peter’s podcast can be found on the @regionsbank  YouTube cha
       <description></description>
       <media:thumbnail url="https://i3.ytimg.com/vi/Zaf1eUtDCog/hqdefault.jpg" width="480" height="360"/>
       <media:content url="https://www.youtube.com/watch?v=Zaf1eUtDCog" medium="video"/>
-    </item>
-    <item>
-      <title>🦅 There’s no place like home #WarEagle #SECMediaDays</title>
-      <link>https://www.youtube.com/shorts/Gqjg7UZybv8</link>
-      <guid isPermaLink="false">Gqjg7UZybv8</guid>
-      <pubDate>Tue, 21 Jul 2026 17:24:16 +0000</pubDate>
-      <author>Auburn Tigers on AL.com</author>
-      <description></description>
-      <media:thumbnail url="https://i4.ytimg.com/vi/Gqjg7UZybv8/hqdefault.jpg" width="480" height="360"/>
-      <media:content url="https://www.youtube.com/watch?v=Gqjg7UZybv8" medium="video"/>
     </item>
   </channel>
 </rss>
