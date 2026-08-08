@@ -4,8 +4,20 @@
     <title>AL.com Sports - Alabama &amp; Auburn Videos</title>
     <link>https://www.al.com</link>
     <description>Combined video feed from Alabama Crimson Tide and Auburn Tigers on AL.com</description>
-    <lastBuildDate>Sat, 08 Aug 2026 17:55:47 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 08 Aug 2026 18:32:05 +0000</lastBuildDate>
     <atom:link rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Kodi Burns is asked how he’s helping his players who transferred from USF with transition to the SEC</title>
+      <link>https://www.youtube.com/shorts/4G47X4RmLLg</link>
+      <guid isPermaLink="false">4G47X4RmLLg</guid>
+      <pubDate>Sat, 08 Aug 2026 18:12:49 +0000</pubDate>
+      <author>Auburn Tigers on AL.com</author>
+      <description>Kodi Burns is asked how he’s helping his players who transferred from USF with the transition to the SEC.
+
+#wareagle #auburn #wde #auburnfootball #auburntigers</description>
+      <media:thumbnail url="https://i1.ytimg.com/vi/4G47X4RmLLg/hqdefault.jpg" width="480" height="360"/>
+      <media:content url="https://www.youtube.com/watch?v=4G47X4RmLLg" medium="video"/>
+    </item>
     <item>
       <title>Kodi Burns answers questions from the media following fall practice on Saturday</title>
       <link>https://www.youtube.com/watch?v=8XR-9tT-4Lk</link>
@@ -303,16 +315,6 @@ AL.com media coverage presented by Inline Electric Supply Co. Inc.</description>
 AL.com media coverage presented by Inline Electric Supply Co. Inc.</description>
       <media:thumbnail url="https://i1.ytimg.com/vi/hlPexqJAcO0/hqdefault.jpg" width="480" height="360"/>
       <media:content url="https://www.youtube.com/watch?v=hlPexqJAcO0" medium="video"/>
-    </item>
-    <item>
-      <title>Lane Kiffin is asked about the Auburn-LSU rivalry that renews Oct. 24 on the Plains. #SEC #WarEagle</title>
-      <link>https://www.youtube.com/shorts/lVFPJ90fMLs</link>
-      <guid isPermaLink="false">lVFPJ90fMLs</guid>
-      <pubDate>Thu, 23 Jul 2026 16:11:57 +0000</pubDate>
-      <author>Auburn Tigers on AL.com</author>
-      <description></description>
-      <media:thumbnail url="https://i1.ytimg.com/vi/lVFPJ90fMLs/hqdefault.jpg" width="480" height="360"/>
-      <media:content url="https://www.youtube.com/watch?v=lVFPJ90fMLs" medium="video"/>
     </item>
   </channel>
 </rss>
