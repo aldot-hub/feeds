@@ -4,8 +4,18 @@
     <title>AL.com Sports - Alabama &amp; Auburn Videos</title>
     <link>https://www.al.com</link>
     <description>Combined video feed from Alabama Crimson Tide and Auburn Tigers on AL.com</description>
-    <lastBuildDate>Tue, 11 Aug 2026 22:05:25 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 11 Aug 2026 23:01:02 +0000</lastBuildDate>
     <atom:link rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Alabama DC Kane Wommack on Crimson Tide's defensive progress</title>
+      <link>https://www.youtube.com/watch?v=NABTrK_cD4M</link>
+      <guid isPermaLink="false">NABTrK_cD4M</guid>
+      <pubDate>Tue, 11 Aug 2026 22:37:29 +0000</pubDate>
+      <author>Alabama Crimson Tide on AL.com</author>
+      <description>Alabama DC Kane Wommack discusses the Tide's defensive progress during fall camp on Aug. 11, 2026. Footage courtesy of Alabama Athletics</description>
+      <media:thumbnail url="https://i3.ytimg.com/vi/NABTrK_cD4M/hqdefault.jpg" width="480" height="360"/>
+      <media:content url="https://www.youtube.com/watch?v=NABTrK_cD4M" medium="video"/>
+    </item>
     <item>
       <title>Here’s what Ryan Grubb is evaluating as Austin Mack and Keelon Russell continue to battle for QB1</title>
       <link>https://www.youtube.com/shorts/P7mBn73efBE</link>
@@ -235,16 +245,6 @@
       <description>Auburn quarterback Byrum Brown gives his thoughts on the first two days of fall camp 2026.</description>
       <media:thumbnail url="https://i4.ytimg.com/vi/K8HWqR4s3nU/hqdefault.jpg" width="480" height="360"/>
       <media:content url="https://www.youtube.com/watch?v=K8HWqR4s3nU" medium="video"/>
-    </item>
-    <item>
-      <title>Alabama RB Daniel Hill on changing his diet, the running back room at Bama and which QB is faster</title>
-      <link>https://www.youtube.com/watch?v=_yJ5vd6ZNfA</link>
-      <guid isPermaLink="false">_yJ5vd6ZNfA</guid>
-      <pubDate>Thu, 06 Aug 2026 17:56:56 +0000</pubDate>
-      <author>Alabama Crimson Tide on AL.com</author>
-      <description>Alabama running back Daniel Hill on changing his diet, the RB room at Bama and which QB is faster</description>
-      <media:thumbnail url="https://i4.ytimg.com/vi/_yJ5vd6ZNfA/hqdefault.jpg" width="480" height="360"/>
-      <media:content url="https://www.youtube.com/watch?v=_yJ5vd6ZNfA" medium="video"/>
     </item>
     <item>
       <title>Alex Golesh addresses the media following day 2 of fall camp 2026</title>
