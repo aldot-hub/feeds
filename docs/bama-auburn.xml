@@ -4,8 +4,38 @@
     <title>AL.com Sports - Alabama &amp; Auburn Videos</title>
     <link>https://www.al.com</link>
     <description>Combined video feed from Alabama Crimson Tide and Auburn Tigers on AL.com</description>
-    <lastBuildDate>Thu, 13 Aug 2026 20:02:52 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 13 Aug 2026 21:00:52 +0000</lastBuildDate>
     <atom:link rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Kalen DeBoer on the pressure of the offensive line to execute at a high level. #rolltide</title>
+      <link>https://www.youtube.com/shorts/8oUhsYcjCn4</link>
+      <guid isPermaLink="false">8oUhsYcjCn4</guid>
+      <pubDate>Thu, 13 Aug 2026 20:26:29 +0000</pubDate>
+      <author>Alabama Crimson Tide on AL.com</author>
+      <description></description>
+      <media:thumbnail url="https://i1.ytimg.com/vi/8oUhsYcjCn4/hqdefault.jpg" width="480" height="360"/>
+      <media:content url="https://www.youtube.com/watch?v=8oUhsYcjCn4" medium="video"/>
+    </item>
+    <item>
+      <title>Kalen DeBoer on the QB battle as Alabama wrapped up their first scrimmage in preseason camp.</title>
+      <link>https://www.youtube.com/shorts/fOADo16kHE4</link>
+      <guid isPermaLink="false">fOADo16kHE4</guid>
+      <pubDate>Thu, 13 Aug 2026 20:13:06 +0000</pubDate>
+      <author>Alabama Crimson Tide on AL.com</author>
+      <description></description>
+      <media:thumbnail url="https://i3.ytimg.com/vi/fOADo16kHE4/hqdefault.jpg" width="480" height="360"/>
+      <media:content url="https://www.youtube.com/watch?v=fOADo16kHE4" medium="video"/>
+    </item>
+    <item>
+      <title>Vontrell King-Williams gets animated talking about Golesh’s surprise scrimmage during practice</title>
+      <link>https://www.youtube.com/shorts/afqem0wW4gA</link>
+      <guid isPermaLink="false">afqem0wW4gA</guid>
+      <pubDate>Thu, 13 Aug 2026 19:57:52 +0000</pubDate>
+      <author>Auburn Tigers on AL.com</author>
+      <description>Auburn DL coach Vontrell King-Williams gets animated talking about Alex Golesh’s surprise scrimmage period during practice on Wednesday. 😆</description>
+      <media:thumbnail url="https://i2.ytimg.com/vi/afqem0wW4gA/hqdefault.jpg" width="480" height="360"/>
+      <media:content url="https://www.youtube.com/watch?v=afqem0wW4gA" medium="video"/>
+    </item>
     <item>
       <title>Kalen DeBoer gives insight on Alabama's first scrimmage as preseason camp continues</title>
       <link>https://www.youtube.com/watch?v=zkE2OAF_AkM</link>
@@ -217,26 +247,6 @@
       <media:content url="https://www.youtube.com/watch?v=FUbdl5yFIcY" medium="video"/>
     </item>
     <item>
-      <title>Alabama highlights from fall camp as 2026 season begins</title>
-      <link>https://www.youtube.com/watch?v=QdFXZfkMRXs</link>
-      <guid isPermaLink="false">QdFXZfkMRXs</guid>
-      <pubDate>Thu, 06 Aug 2026 18:11:06 +0000</pubDate>
-      <author>Alabama Crimson Tide on AL.com</author>
-      <description>Courtesy of the University of Alabama</description>
-      <media:thumbnail url="https://i2.ytimg.com/vi/QdFXZfkMRXs/hqdefault.jpg" width="480" height="360"/>
-      <media:content url="https://www.youtube.com/watch?v=QdFXZfkMRXs" medium="video"/>
-    </item>
-    <item>
-      <title>Alabama QBs battle for staring spot at 2026 fall camp #rolltide</title>
-      <link>https://www.youtube.com/shorts/FCOuf3BySOc</link>
-      <guid isPermaLink="false">FCOuf3BySOc</guid>
-      <pubDate>Thu, 06 Aug 2026 18:10:08 +0000</pubDate>
-      <author>Alabama Crimson Tide on AL.com</author>
-      <description></description>
-      <media:thumbnail url="https://i3.ytimg.com/vi/FCOuf3BySOc/hqdefault.jpg" width="480" height="360"/>
-      <media:content url="https://www.youtube.com/watch?v=FCOuf3BySOc" medium="video"/>
-    </item>
-    <item>
       <title>Auburn QB Byrum Brown answers questions from the media following day 2 of fall camp 2026</title>
       <link>https://www.youtube.com/watch?v=K8HWqR4s3nU</link>
       <guid isPermaLink="false">K8HWqR4s3nU</guid>
@@ -307,16 +317,6 @@ AL.com media coverage is presented by Inline Electric Supply Co. Inc.</descripti
       <description></description>
       <media:thumbnail url="https://i2.ytimg.com/vi/e4StFNXJ8Y4/hqdefault.jpg" width="480" height="360"/>
       <media:content url="https://www.youtube.com/watch?v=e4StFNXJ8Y4" medium="video"/>
-    </item>
-    <item>
-      <title>Auburn LB Xavier Atkins on first day of preseason camp</title>
-      <link>https://www.youtube.com/watch?v=qZLah9I11bY</link>
-      <guid isPermaLink="false">qZLah9I11bY</guid>
-      <pubDate>Wed, 05 Aug 2026 16:37:29 +0000</pubDate>
-      <author>Auburn Tigers on AL.com</author>
-      <description></description>
-      <media:thumbnail url="https://i2.ytimg.com/vi/qZLah9I11bY/hqdefault.jpg" width="480" height="360"/>
-      <media:content url="https://www.youtube.com/watch?v=qZLah9I11bY" medium="video"/>
     </item>
   </channel>
 </rss>
