@@ -4,8 +4,18 @@
     <title>AL.com Sports - Alabama &amp; Auburn Videos</title>
     <link>https://www.al.com</link>
     <description>Combined video feed from Alabama Crimson Tide and Auburn Tigers on AL.com</description>
-    <lastBuildDate>Fri, 14 Aug 2026 18:31:13 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 14 Aug 2026 19:35:39 +0000</lastBuildDate>
     <atom:link rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Auburn’s Alex Golesh says the Tigers have “a lot to work on” after the first scrimmage of fall camp.</title>
+      <link>https://www.youtube.com/shorts/yceQ5LclIWA</link>
+      <guid isPermaLink="false">yceQ5LclIWA</guid>
+      <pubDate>Fri, 14 Aug 2026 18:31:04 +0000</pubDate>
+      <author>Auburn Tigers on AL.com</author>
+      <description></description>
+      <media:thumbnail url="https://i2.ytimg.com/vi/yceQ5LclIWA/hqdefault.jpg" width="480" height="360"/>
+      <media:content url="https://www.youtube.com/watch?v=yceQ5LclIWA" medium="video"/>
+    </item>
     <item>
       <title>Auburn's Alex Golesh recaps his team's 1st scrimmage of fall camp</title>
       <link>https://www.youtube.com/watch?v=afDBsJc6GmU</link>
@@ -307,16 +317,6 @@ AL.com media coverage is presented by Inline Electric Supply Co. Inc.</descripti
       <description>Defensive coordinator DJ Durkin leads Xavier Atkins, De'Marcus Riddick and the Auburn defense through practice during day 2 of fall camp, ahead of the 2026 season.</description>
       <media:thumbnail url="https://i3.ytimg.com/vi/ZqC2y0H5sf4/hqdefault.jpg" width="480" height="360"/>
       <media:content url="https://www.youtube.com/watch?v=ZqC2y0H5sf4" medium="video"/>
-    </item>
-    <item>
-      <title>Jeremiah Cobb, Omar Mabson II and the Auburn running backs practice during day 2 of 2026 fall camp</title>
-      <link>https://www.youtube.com/watch?v=eF1U_ikohm4</link>
-      <guid isPermaLink="false">eF1U_ikohm4</guid>
-      <pubDate>Thu, 06 Aug 2026 15:08:02 +0000</pubDate>
-      <author>Auburn Tigers on AL.com</author>
-      <description>Jeremiah Cobb, Omar Mabson II, Nykahi Davenport and the Auburn running backs practice during the second day of fall camp, as the 2026 season begins.</description>
-      <media:thumbnail url="https://i2.ytimg.com/vi/eF1U_ikohm4/hqdefault.jpg" width="480" height="360"/>
-      <media:content url="https://www.youtube.com/watch?v=eF1U_ikohm4" medium="video"/>
     </item>
   </channel>
 </rss>
