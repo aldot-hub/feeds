@@ -4,8 +4,18 @@
     <title>AL.com Sports - Alabama &amp; Auburn Videos</title>
     <link>https://www.al.com</link>
     <description>Combined video feed from Alabama Crimson Tide and Auburn Tigers on AL.com</description>
-    <lastBuildDate>Wed, 19 Aug 2026 19:37:03 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 19 Aug 2026 19:58:00 +0000</lastBuildDate>
     <atom:link rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Alex Golesh updates after Auburn's 2nd scrimmage - says he is more pleased</title>
+      <link>https://www.youtube.com/watch?v=Z-OHmJlJyac</link>
+      <guid isPermaLink="false">Z-OHmJlJyac</guid>
+      <pubDate>Wed, 19 Aug 2026 19:42:01 +0000</pubDate>
+      <author>Auburn Tigers on AL.com</author>
+      <description>AL.com media coverage presented by Inline Electrical supply Co. Inc.</description>
+      <media:thumbnail url="https://i3.ytimg.com/vi/Z-OHmJlJyac/hqdefault.jpg" width="480" height="360"/>
+      <media:content url="https://www.youtube.com/watch?v=Z-OHmJlJyac" medium="video"/>
+    </item>
     <item>
       <title>Alabama DC Kane Wommack on making decisions as to who takes the field in week 1. #rolltide</title>
       <link>https://www.youtube.com/shorts/OHS850INoPM</link>
@@ -315,16 +325,6 @@ AL.com media coverage is presented by Inline Electric Supply Co. Inc.</descripti
       <description></description>
       <media:thumbnail url="https://i3.ytimg.com/vi/rue3znz1_E0/hqdefault.jpg" width="480" height="360"/>
       <media:content url="https://www.youtube.com/watch?v=rue3znz1_E0" medium="video"/>
-    </item>
-    <item>
-      <title>Watch DJ Durkin, Xavier Atkins and the Auburn defense at practice during day 2 of fall camp 2026</title>
-      <link>https://www.youtube.com/watch?v=ZqC2y0H5sf4</link>
-      <guid isPermaLink="false">ZqC2y0H5sf4</guid>
-      <pubDate>Thu, 06 Aug 2026 15:28:50 +0000</pubDate>
-      <author>Auburn Tigers on AL.com</author>
-      <description>Defensive coordinator DJ Durkin leads Xavier Atkins, De'Marcus Riddick and the Auburn defense through practice during day 2 of fall camp, ahead of the 2026 season.</description>
-      <media:thumbnail url="https://i3.ytimg.com/vi/ZqC2y0H5sf4/hqdefault.jpg" width="480" height="360"/>
-      <media:content url="https://www.youtube.com/watch?v=ZqC2y0H5sf4" medium="video"/>
     </item>
   </channel>
 </rss>
