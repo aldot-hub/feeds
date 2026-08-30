@@ -4,8 +4,18 @@
     <title>AL.com Sports - Alabama &amp; Auburn Videos</title>
     <link>https://www.al.com</link>
     <description>Combined video feed from Alabama Crimson Tide and Auburn Tigers on AL.com</description>
-    <lastBuildDate>Sun, 30 Aug 2026 10:40:34 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 30 Aug 2026 14:59:52 +0000</lastBuildDate>
     <atom:link rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Alabama football shot on 8mm is surreal 🤯</title>
+      <link>https://www.youtube.com/shorts/CN6qFH6kqyc</link>
+      <guid isPermaLink="false">CN6qFH6kqyc</guid>
+      <pubDate>Sun, 30 Aug 2026 14:06:00 +0000</pubDate>
+      <author>Alabama Crimson Tide on AL.com</author>
+      <description></description>
+      <media:thumbnail url="https://i4.ytimg.com/vi/CN6qFH6kqyc/hqdefault.jpg" width="480" height="360"/>
+      <media:content url="https://www.youtube.com/watch?v=CN6qFH6kqyc" medium="video"/>
+    </item>
     <item>
       <title>We Are Bama | The Crimson Tide through the eyes of 8 mm film</title>
       <link>https://www.youtube.com/watch?v=-rarhnY3sgQ</link>
@@ -36,7 +46,9 @@ We are Bama</description>
 
 AL.com media coverage presented by @gobuildalabama
 
-Video produced and edited by Laura Goldman</description>
+Video produced and edited by Laura Goldman
+
+For more from this interview, read Peter's story: https://www.al.com/auburnfootball/2026/08/the-making-of-alex-golesh-in-exclusive-interview-auburn-coach-details-unique-backstory-journey-to-the-plains.html</description>
       <media:thumbnail url="https://i2.ytimg.com/vi/ICrp8v6iVTA/hqdefault.jpg" width="480" height="360"/>
       <media:content url="https://www.youtube.com/watch?v=ICrp8v6iVTA" medium="video"/>
     </item>
@@ -201,16 +213,6 @@ More Than the Moment tells the story behind Trent Seaborn — his uncommon rise,
       <description></description>
       <media:thumbnail url="https://i4.ytimg.com/vi/OfVh9TgWLEs/hqdefault.jpg" width="480" height="360"/>
       <media:content url="https://www.youtube.com/watch?v=OfVh9TgWLEs" medium="video"/>
-    </item>
-    <item>
-      <title>Nick Saban speaks ahead of the Nick Saban Legacy Awards at the Red Mountain Theatre in Birmingham.</title>
-      <link>https://www.youtube.com/watch?v=hYPp0QvMFSQ</link>
-      <guid isPermaLink="false">hYPp0QvMFSQ</guid>
-      <pubDate>Tue, 25 Aug 2026 00:46:20 +0000</pubDate>
-      <author>Alabama Crimson Tide on AL.com</author>
-      <description>Nick Saban speaks ahead of the 2026 Nick Saban Legacy Awards at the Red Mountain Theatre in Birmingham.</description>
-      <media:thumbnail url="https://i1.ytimg.com/vi/hYPp0QvMFSQ/hqdefault.jpg" width="480" height="360"/>
-      <media:content url="https://www.youtube.com/watch?v=hYPp0QvMFSQ" medium="video"/>
     </item>
     <item>
       <title>Alex Golesh on Auburn’s offense being “light years” ahead because of the experience at QB.</title>
