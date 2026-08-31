@@ -4,8 +4,18 @@
     <title>AL.com Sports - Alabama &amp; Auburn Videos</title>
     <link>https://www.al.com</link>
     <description>Combined video feed from Alabama Crimson Tide and Auburn Tigers on AL.com</description>
-    <lastBuildDate>Mon, 31 Aug 2026 09:41:26 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 17:13:28 +0000</lastBuildDate>
     <atom:link rel="self" type="application/rss+xml"/>
+    <item>
+      <title>🍿Auburn’s Alex Golesh has excellent taste in cinema #WarEagle @gobuildalabama</title>
+      <link>https://www.youtube.com/shorts/-g53YjOglYg</link>
+      <guid isPermaLink="false">-g53YjOglYg</guid>
+      <pubDate>Mon, 31 Aug 2026 16:25:31 +0000</pubDate>
+      <author>Auburn Tigers on AL.com</author>
+      <description></description>
+      <media:thumbnail url="https://i2.ytimg.com/vi/-g53YjOglYg/hqdefault.jpg" width="480" height="360"/>
+      <media:content url="https://www.youtube.com/watch?v=-g53YjOglYg" medium="video"/>
+    </item>
     <item>
       <title>Alabama football shot on 8mm is surreal 🤯</title>
       <link>https://www.youtube.com/shorts/CN6qFH6kqyc</link>
@@ -341,16 +351,6 @@ More Than the Moment tells the story behind Trent Seaborn — his uncommon rise,
       <description>Associate Head Coach, Co-Offensive Coordinator and Wide Receivers coach Kodi Burns answers questions from the media following practice on Saturday, August 8, 2026.</description>
       <media:thumbnail url="https://i1.ytimg.com/vi/8XR-9tT-4Lk/hqdefault.jpg" width="480" height="360"/>
       <media:content url="https://www.youtube.com/watch?v=8XR-9tT-4Lk" medium="video"/>
-    </item>
-    <item>
-      <title>Auburn QB Byrum Brown sung his offensive line’s praises following day two of 2026 fall camp. 🙏</title>
-      <link>https://www.youtube.com/shorts/-DYSHdZzpPM</link>
-      <guid isPermaLink="false">-DYSHdZzpPM</guid>
-      <pubDate>Thu, 06 Aug 2026 18:44:25 +0000</pubDate>
-      <author>Auburn Tigers on AL.com</author>
-      <description>Auburn QB Byrum Brown sung his offensive line’s praises following day two of 2026 fall camp. 🙏</description>
-      <media:thumbnail url="https://i2.ytimg.com/vi/-DYSHdZzpPM/hqdefault.jpg" width="480" height="360"/>
-      <media:content url="https://www.youtube.com/watch?v=-DYSHdZzpPM" medium="video"/>
     </item>
   </channel>
 </rss>
