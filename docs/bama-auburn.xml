@@ -4,8 +4,28 @@
     <title>AL.com Sports - Alabama &amp; Auburn Videos</title>
     <link>https://www.al.com</link>
     <description>Combined video feed from Alabama Crimson Tide and Auburn Tigers on AL.com</description>
-    <lastBuildDate>Wed, 02 Sep 2026 15:07:30 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 18:40:29 +0000</lastBuildDate>
     <atom:link rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Early look: Auburn’s on-court sponsorship with U.S. Navy’s Submarine Industrial Base Program Office</title>
+      <link>https://www.youtube.com/shorts/aa_kE-uKGoc</link>
+      <guid isPermaLink="false">aa_kE-uKGoc</guid>
+      <pubDate>Wed, 02 Sep 2026 18:22:00 +0000</pubDate>
+      <author>Auburn Tigers on AL.com</author>
+      <description></description>
+      <media:thumbnail url="https://i2.ytimg.com/vi/aa_kE-uKGoc/hqdefault.jpg" width="480" height="360"/>
+      <media:content url="https://www.youtube.com/watch?v=aa_kE-uKGoc" medium="video"/>
+    </item>
+    <item>
+      <title>Alabama commit Trent Seaborn is multi talented (Credit: @ths_saxolows)</title>
+      <link>https://www.youtube.com/shorts/MpKKNKxnTBw</link>
+      <guid isPermaLink="false">MpKKNKxnTBw</guid>
+      <pubDate>Wed, 02 Sep 2026 18:02:40 +0000</pubDate>
+      <author>Alabama Crimson Tide on AL.com</author>
+      <description></description>
+      <media:thumbnail url="https://i2.ytimg.com/vi/MpKKNKxnTBw/hqdefault.jpg" width="480" height="360"/>
+      <media:content url="https://www.youtube.com/watch?v=MpKKNKxnTBw" medium="video"/>
+    </item>
     <item>
       <title>September 1, 2026</title>
       <link>https://www.youtube.com/shorts/Bn9ARN7R8As</link>
@@ -271,16 +291,6 @@ AL.com media coverage is presented by @gobuildalabama</description>
       <media:content url="https://www.youtube.com/watch?v=j9ZNYXgokNs" medium="video"/>
     </item>
     <item>
-      <title>Did Chris Davis step out of bounds during the KICK SIX? 👀</title>
-      <link>https://www.youtube.com/shorts/rb9tZOg9dDs</link>
-      <guid isPermaLink="false">rb9tZOg9dDs</guid>
-      <pubDate>Fri, 28 Aug 2026 12:31:48 +0000</pubDate>
-      <author>Alabama Crimson Tide on AL.com</author>
-      <description>Did Chris Davis step out of bounds during the Kick Six? Alabama legend Kevin Norwood says yes, and cannot be convinced otherwise.</description>
-      <media:thumbnail url="https://i3.ytimg.com/vi/rb9tZOg9dDs/hqdefault.jpg" width="480" height="360"/>
-      <media:content url="https://www.youtube.com/watch?v=rb9tZOg9dDs" medium="video"/>
-    </item>
-    <item>
       <title>Alex Golesh on Auburn’s offense being “light years” ahead because of the experience at QB.</title>
       <link>https://www.youtube.com/shorts/c9QuS5-bXmo</link>
       <guid isPermaLink="false">c9QuS5-bXmo</guid>
@@ -329,16 +339,6 @@ AL.com media coverage is presented by @gobuildalabama</description>
       <description></description>
       <media:thumbnail url="https://i2.ytimg.com/vi/yceQ5LclIWA/hqdefault.jpg" width="480" height="360"/>
       <media:content url="https://www.youtube.com/watch?v=yceQ5LclIWA" medium="video"/>
-    </item>
-    <item>
-      <title>Auburn's Alex Golesh recaps his team's 1st scrimmage of fall camp</title>
-      <link>https://www.youtube.com/watch?v=afDBsJc6GmU</link>
-      <guid isPermaLink="false">afDBsJc6GmU</guid>
-      <pubDate>Fri, 14 Aug 2026 18:08:03 +0000</pubDate>
-      <author>Auburn Tigers on AL.com</author>
-      <description>Auburn head coach Alex Golesh speaks with reporters on Aug. 14, 2026. AL.com media coverage presented by Inline Electric Supply Co. Inc.</description>
-      <media:thumbnail url="https://i2.ytimg.com/vi/afDBsJc6GmU/hqdefault.jpg" width="480" height="360"/>
-      <media:content url="https://www.youtube.com/watch?v=afDBsJc6GmU" medium="video"/>
     </item>
   </channel>
 </rss>
