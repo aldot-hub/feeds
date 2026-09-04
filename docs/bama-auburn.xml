@@ -4,8 +4,18 @@
     <title>AL.com Sports - Alabama &amp; Auburn Videos</title>
     <link>https://www.al.com</link>
     <description>Combined video feed from Alabama Crimson Tide and Auburn Tigers on AL.com</description>
-    <lastBuildDate>Fri, 04 Sep 2026 19:52:37 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 22:01:52 +0000</lastBuildDate>
     <atom:link rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Alabama released its depth chart Friday. Nick Kelly offers his insight heading into game 1 vs ECU</title>
+      <link>https://www.youtube.com/shorts/DXRAycd5TcM</link>
+      <guid isPermaLink="false">DXRAycd5TcM</guid>
+      <pubDate>Fri, 04 Sep 2026 20:04:26 +0000</pubDate>
+      <author>Alabama Crimson Tide on AL.com</author>
+      <description></description>
+      <media:thumbnail url="https://i1.ytimg.com/vi/DXRAycd5TcM/hqdefault.jpg" width="480" height="360"/>
+      <media:content url="https://www.youtube.com/watch?v=DXRAycd5TcM" medium="video"/>
+    </item>
     <item>
       <title>What The Film Guy REALLY thinks about Alabama! 🎥 Why Keelon Russell is SPECIAL! w/ BROOKS AUSTIN!</title>
       <link>https://www.youtube.com/watch?v=-wYaWuu9hKA</link>
@@ -273,16 +283,6 @@ Video produced and edited by Laura Goldman
 For more from this interview, read Peter's story: https://www.al.com/auburnfootball/2026/08/the-making-of-alex-golesh-in-exclusive-interview-auburn-coach-details-unique-backstory-journey-to-the-plains.html</description>
       <media:thumbnail url="https://i2.ytimg.com/vi/ICrp8v6iVTA/hqdefault.jpg" width="480" height="360"/>
       <media:content url="https://www.youtube.com/watch?v=ICrp8v6iVTA" medium="video"/>
-    </item>
-    <item>
-      <title>August 29, 2026</title>
-      <link>https://www.youtube.com/shorts/X5ZUOlU7Wlc</link>
-      <guid isPermaLink="false">X5ZUOlU7Wlc</guid>
-      <pubDate>Sat, 29 Aug 2026 16:03:54 +0000</pubDate>
-      <author>Alabama Crimson Tide on AL.com</author>
-      <description></description>
-      <media:thumbnail url="https://i1.ytimg.com/vi/X5ZUOlU7Wlc/hqdefault.jpg" width="480" height="360"/>
-      <media:content url="https://www.youtube.com/watch?v=X5ZUOlU7Wlc" medium="video"/>
     </item>
     <item>
       <title>What was Auburn HC Alex Golesh like as a player? Interview with AL.com coming 8/30 @gobuildalabama</title>
