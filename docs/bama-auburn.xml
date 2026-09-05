@@ -4,8 +4,18 @@
     <title>AL.com Sports - Alabama &amp; Auburn Videos</title>
     <link>https://www.al.com</link>
     <description>Combined video feed from Alabama Crimson Tide and Auburn Tigers on AL.com</description>
-    <lastBuildDate>Sat, 05 Sep 2026 11:56:08 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2026 14:34:03 +0000</lastBuildDate>
     <atom:link rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Kalen DeBoer and Alabama arrive at Walk of Champions before facing East Carolina</title>
+      <link>https://www.youtube.com/shorts/3rXHn66Hbg0</link>
+      <guid isPermaLink="false">3rXHn66Hbg0</guid>
+      <pubDate>Sat, 05 Sep 2026 14:15:58 +0000</pubDate>
+      <author>Alabama Crimson Tide on AL.com</author>
+      <description></description>
+      <media:thumbnail url="https://i4.ytimg.com/vi/3rXHn66Hbg0/hqdefault.jpg" width="480" height="360"/>
+      <media:content url="https://www.youtube.com/watch?v=3rXHn66Hbg0" medium="video"/>
+    </item>
     <item>
       <title>Alabama QB commit Trent Seaborn broke AHSAA's all-time career passing record Friday night #rolltide</title>
       <link>https://www.youtube.com/shorts/VZ3LeTm-mBk</link>
@@ -257,16 +267,6 @@ AL.com media coverage presented by Inline Electric Supply Co. Inc.</description>
       <description></description>
       <media:thumbnail url="https://i2.ytimg.com/vi/-g53YjOglYg/hqdefault.jpg" width="480" height="360"/>
       <media:content url="https://www.youtube.com/watch?v=-g53YjOglYg" medium="video"/>
-    </item>
-    <item>
-      <title>Alabama football shot on 8mm is surreal 🤯</title>
-      <link>https://www.youtube.com/shorts/CN6qFH6kqyc</link>
-      <guid isPermaLink="false">CN6qFH6kqyc</guid>
-      <pubDate>Sun, 30 Aug 2026 14:06:00 +0000</pubDate>
-      <author>Alabama Crimson Tide on AL.com</author>
-      <description></description>
-      <media:thumbnail url="https://i4.ytimg.com/vi/CN6qFH6kqyc/hqdefault.jpg" width="480" height="360"/>
-      <media:content url="https://www.youtube.com/watch?v=CN6qFH6kqyc" medium="video"/>
     </item>
     <item>
       <title>One-on-One with Alex Golesh: Auburn's new head coach details unique backstory, journey to the Plains</title>
