@@ -4,8 +4,18 @@
     <title>AL.com Sports - Alabama &amp; Auburn Videos</title>
     <link>https://www.al.com</link>
     <description>Combined video feed from Alabama Crimson Tide and Auburn Tigers on AL.com</description>
-    <lastBuildDate>Sat, 05 Sep 2026 16:56:19 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2026 18:46:43 +0000</lastBuildDate>
     <atom:link rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Alex Golesh gets some good luck love from his family before Auburn’s game vs Baylor #wareagle #wde</title>
+      <link>https://www.youtube.com/shorts/kJT42-hdgCk</link>
+      <guid isPermaLink="false">kJT42-hdgCk</guid>
+      <pubDate>Sat, 05 Sep 2026 18:03:47 +0000</pubDate>
+      <author>Auburn Tigers on AL.com</author>
+      <description>Alex Golesh gets some good luck love from his family — wife Alexis, kids Corbin &amp; Bear, parents Bella and Vladimir — before Auburn’s game vs Baylor. #wareagle #auburn #wde #auburntigers #auburnfootball</description>
+      <media:thumbnail url="https://i4.ytimg.com/vi/kJT42-hdgCk/hqdefault.jpg" width="480" height="360"/>
+      <media:content url="https://www.youtube.com/watch?v=kJT42-hdgCk" medium="video"/>
+    </item>
     <item>
       <title>East Carolina made their entrance onto Saban Field right in front of Alabama’s pregame prayer. 😬</title>
       <link>https://www.youtube.com/shorts/AD7NB75HDhc</link>
@@ -331,16 +341,6 @@ AL.com media coverage is presented by @gobuildalabama</description>
       <description></description>
       <media:thumbnail url="https://i4.ytimg.com/vi/_IYE_ojH1Gw/hqdefault.jpg" width="480" height="360"/>
       <media:content url="https://www.youtube.com/watch?v=_IYE_ojH1Gw" medium="video"/>
-    </item>
-    <item>
-      <title>Alex Golesh updates after Auburn's 2nd scrimmage - says he is more pleased</title>
-      <link>https://www.youtube.com/watch?v=Z-OHmJlJyac</link>
-      <guid isPermaLink="false">Z-OHmJlJyac</guid>
-      <pubDate>Wed, 19 Aug 2026 19:42:01 +0000</pubDate>
-      <author>Auburn Tigers on AL.com</author>
-      <description>AL.com media coverage presented by Inline Electrical supply Co. Inc.</description>
-      <media:thumbnail url="https://i3.ytimg.com/vi/Z-OHmJlJyac/hqdefault.jpg" width="480" height="360"/>
-      <media:content url="https://www.youtube.com/watch?v=Z-OHmJlJyac" medium="video"/>
     </item>
   </channel>
 </rss>
