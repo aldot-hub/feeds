@@ -4,8 +4,28 @@
     <title>AL.com Sports - Alabama &amp; Auburn Videos</title>
     <link>https://www.al.com</link>
     <description>Combined video feed from Alabama Crimson Tide and Auburn Tigers on AL.com</description>
-    <lastBuildDate>Sun, 06 Sep 2026 15:46:27 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 06 Sep 2026 17:56:59 +0000</lastBuildDate>
     <atom:link rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Ryan Coleman-Williams on his first game not wearing gloves.</title>
+      <link>https://www.youtube.com/shorts/i98uO4AxN9o</link>
+      <guid isPermaLink="false">i98uO4AxN9o</guid>
+      <pubDate>Sun, 06 Sep 2026 16:54:11 +0000</pubDate>
+      <author>Alabama Crimson Tide on AL.com</author>
+      <description></description>
+      <media:thumbnail url="https://i2.ytimg.com/vi/i98uO4AxN9o/hqdefault.jpg" width="480" height="360"/>
+      <media:content url="https://www.youtube.com/watch?v=i98uO4AxN9o" medium="video"/>
+    </item>
+    <item>
+      <title>“God blessed me with some legs, so why not use them” 😂 Alabama QB Keelon Russell</title>
+      <link>https://www.youtube.com/shorts/9KoXiFr3oM0</link>
+      <guid isPermaLink="false">9KoXiFr3oM0</guid>
+      <pubDate>Sun, 06 Sep 2026 16:40:39 +0000</pubDate>
+      <author>Alabama Crimson Tide on AL.com</author>
+      <description></description>
+      <media:thumbnail url="https://i2.ytimg.com/vi/9KoXiFr3oM0/hqdefault.jpg" width="480" height="360"/>
+      <media:content url="https://www.youtube.com/watch?v=9KoXiFr3oM0" medium="video"/>
+    </item>
     <item>
       <title>Auburn’s defense was all over Baylor in Atlanta as the Tigers secured a season-opening win #WarEagle</title>
       <link>https://www.youtube.com/shorts/_HNxd3ju4IM</link>
@@ -299,28 +319,6 @@ AL.com media coverage presented by Alabama Credit Union</description>
       <description></description>
       <media:thumbnail url="https://i3.ytimg.com/vi/bg1EjJp-i9I/hqdefault.jpg" width="480" height="360"/>
       <media:content url="https://www.youtube.com/watch?v=bg1EjJp-i9I" medium="video"/>
-    </item>
-    <item>
-      <title>Alabama arrives at Walk of Champions for 2026 season opener vs. East Carolina</title>
-      <link>https://www.youtube.com/watch?v=yfaofDVHCyg</link>
-      <guid isPermaLink="false">yfaofDVHCyg</guid>
-      <pubDate>Sat, 05 Sep 2026 14:47:15 +0000</pubDate>
-      <author>Alabama Crimson Tide on AL.com</author>
-      <description>Kalen DeBoer, Ryan Coleman-Williams and Keelon Russell leads Alabama down the Walk of Champions before facing East Carolina in their season opener. 🐘🏈
-
-AL.com media coverage presented by Alabama Credit Union</description>
-      <media:thumbnail url="https://i2.ytimg.com/vi/yfaofDVHCyg/hqdefault.jpg" width="480" height="360"/>
-      <media:content url="https://www.youtube.com/watch?v=yfaofDVHCyg" medium="video"/>
-    </item>
-    <item>
-      <title>Kalen DeBoer and Alabama arrive at Walk of Champions before facing East Carolina</title>
-      <link>https://www.youtube.com/shorts/3rXHn66Hbg0</link>
-      <guid isPermaLink="false">3rXHn66Hbg0</guid>
-      <pubDate>Sat, 05 Sep 2026 14:15:58 +0000</pubDate>
-      <author>Alabama Crimson Tide on AL.com</author>
-      <description></description>
-      <media:thumbnail url="https://i4.ytimg.com/vi/3rXHn66Hbg0/hqdefault.jpg" width="480" height="360"/>
-      <media:content url="https://www.youtube.com/watch?v=3rXHn66Hbg0" medium="video"/>
     </item>
   </channel>
 </rss>
