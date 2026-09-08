@@ -4,8 +4,18 @@
     <title>AL.com Sports - Alabama &amp; Auburn Videos</title>
     <link>https://www.al.com</link>
     <description>Combined video feed from Alabama Crimson Tide and Auburn Tigers on AL.com</description>
-    <lastBuildDate>Tue, 08 Sep 2026 16:40:02 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2026 19:35:03 +0000</lastBuildDate>
     <atom:link rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Auburn DL Dallas Walker IV on beating Baylor, playing defense with tempo</title>
+      <link>https://www.youtube.com/watch?v=abTMzOoxKy4</link>
+      <guid isPermaLink="false">abTMzOoxKy4</guid>
+      <pubDate>Tue, 08 Sep 2026 19:24:28 +0000</pubDate>
+      <author>Auburn Tigers on AL.com</author>
+      <description>Auburn DL Dallas Walker IV recaps the Tigers' season opening win in Atlanta and why practicing against their own offense helped with the tempo from Baylor.</description>
+      <media:thumbnail url="https://i2.ytimg.com/vi/abTMzOoxKy4/hqdefault.jpg" width="480" height="360"/>
+      <media:content url="https://www.youtube.com/watch?v=abTMzOoxKy4" medium="video"/>
+    </item>
     <item>
       <title>Auburn head coach Alex Golesh recaps season opening win vs. Baylor; Adjustments for Southern Miss</title>
       <link>https://www.youtube.com/watch?v=Hri5OJsTJdg</link>
@@ -279,16 +289,6 @@ AL.com media coverage presented by Inline Electric Supply Co. Inc.</description>
 Russell shined with 342 total yards (256 passing + 86 rushing) and a rushing TD vs. ECU.</description>
       <media:thumbnail url="https://i3.ytimg.com/vi/2XynMlJbP7E/hqdefault.jpg" width="480" height="360"/>
       <media:content url="https://www.youtube.com/watch?v=2XynMlJbP7E" medium="video"/>
-    </item>
-    <item>
-      <title>It’s game time in Atlanta! New head coach Alex Golesh leads Auburn out to face Baylor! #WarEagle</title>
-      <link>https://www.youtube.com/shorts/qiwwcDdGIu0</link>
-      <guid isPermaLink="false">qiwwcDdGIu0</guid>
-      <pubDate>Sat, 05 Sep 2026 19:49:57 +0000</pubDate>
-      <author>Auburn Tigers on AL.com</author>
-      <description></description>
-      <media:thumbnail url="https://i2.ytimg.com/vi/qiwwcDdGIu0/hqdefault.jpg" width="480" height="360"/>
-      <media:content url="https://www.youtube.com/watch?v=qiwwcDdGIu0" medium="video"/>
     </item>
     <item>
       <title>Alabama dominates ECU as Keelon Russell shines at quarterback for the Tide 🐘🏈 #rolltide</title>
