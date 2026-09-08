@@ -4,8 +4,20 @@
     <title>AL.com Sports - Alabama &amp; Auburn Videos</title>
     <link>https://www.al.com</link>
     <description>Combined video feed from Alabama Crimson Tide and Auburn Tigers on AL.com</description>
-    <lastBuildDate>Tue, 08 Sep 2026 19:35:03 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2026 22:01:25 +0000</lastBuildDate>
     <atom:link rel="self" type="application/rss+xml"/>
+    <item>
+      <title>The Rewind: Auburn outlasts Baylor in a thriller to open the Golesh Era</title>
+      <link>https://www.youtube.com/watch?v=UQV5g1TMTa4</link>
+      <guid isPermaLink="false">UQV5g1TMTa4</guid>
+      <pubDate>Tue, 08 Sep 2026 21:10:10 +0000</pubDate>
+      <author>Auburn Tigers on AL.com</author>
+      <description>Relive Auburn's nail-biting 17-16 win over Baylor in Atlanta as the 2026 season and Golesh Era on the Plains get underway.
+
+AL.com media coverage is presented by Medical Properties Trust</description>
+      <media:thumbnail url="https://i2.ytimg.com/vi/UQV5g1TMTa4/hqdefault.jpg" width="480" height="360"/>
+      <media:content url="https://www.youtube.com/watch?v=UQV5g1TMTa4" medium="video"/>
+    </item>
     <item>
       <title>Auburn DL Dallas Walker IV on beating Baylor, playing defense with tempo</title>
       <link>https://www.youtube.com/watch?v=abTMzOoxKy4</link>
@@ -231,16 +243,6 @@ AL.com media coverage is presented by Inline Electric Supply Co. Inc.</descripti
       <description></description>
       <media:thumbnail url="https://i4.ytimg.com/vi/kujqnckbwmI/hqdefault.jpg" width="480" height="360"/>
       <media:content url="https://www.youtube.com/watch?v=kujqnckbwmI" medium="video"/>
-    </item>
-    <item>
-      <title>Auburn leads Baylor 10-7 at the break #WarEagle</title>
-      <link>https://www.youtube.com/shorts/Q2lVbijLjBQ</link>
-      <guid isPermaLink="false">Q2lVbijLjBQ</guid>
-      <pubDate>Sat, 05 Sep 2026 21:26:39 +0000</pubDate>
-      <author>Auburn Tigers on AL.com</author>
-      <description></description>
-      <media:thumbnail url="https://i2.ytimg.com/vi/Q2lVbijLjBQ/hqdefault.jpg" width="480" height="360"/>
-      <media:content url="https://www.youtube.com/watch?v=Q2lVbijLjBQ" medium="video"/>
     </item>
     <item>
       <title>Follow Alabama quarterback Keelon Russell after the Tide's season opening win over ECU.</title>
