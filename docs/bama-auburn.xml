@@ -4,8 +4,20 @@
     <title>AL.com Sports - Alabama &amp; Auburn Videos</title>
     <link>https://www.al.com</link>
     <description>Combined video feed from Alabama Crimson Tide and Auburn Tigers on AL.com</description>
-    <lastBuildDate>Sat, 12 Sep 2026 18:46:05 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 12 Sep 2026 21:08:42 +0000</lastBuildDate>
     <atom:link rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Kalen DeBoer and the Alabama players locked in during warmups ahead of game at Kentucky</title>
+      <link>https://www.youtube.com/watch?v=9bMjP7mVEiA</link>
+      <guid isPermaLink="false">9bMjP7mVEiA</guid>
+      <pubDate>Sat, 12 Sep 2026 19:19:22 +0000</pubDate>
+      <author>Alabama Crimson Tide on AL.com</author>
+      <description>Kalen DeBoer and the Alabama players are locked in during warmups ahead of the Tide's game at Kentucky.
+
+AL.com media coverage is presented by Alabama Credit Union.</description>
+      <media:thumbnail url="https://i2.ytimg.com/vi/9bMjP7mVEiA/hqdefault.jpg" width="480" height="360"/>
+      <media:content url="https://www.youtube.com/watch?v=9bMjP7mVEiA" medium="video"/>
+    </item>
     <item>
       <title>Bray Hubbard is ready to go😤#alabamafootball #rolltide</title>
       <link>https://www.youtube.com/shorts/eovyqZOgpLk</link>
@@ -313,20 +325,6 @@ AL.com media coverage is presented by Inline Electric Supply Co. Inc.</descripti
       <description>Alex Golesh celebrates his first win as Auburn's head coach with his family and players in Atlanta after the Tigers beat Baylor 17-16</description>
       <media:thumbnail url="https://i1.ytimg.com/vi/lLyP6jT8aj4/hqdefault.jpg" width="480" height="360"/>
       <media:content url="https://www.youtube.com/watch?v=lLyP6jT8aj4" medium="video"/>
-    </item>
-    <item>
-      <title>Follow Alabama quarterback Keelon Russell after the Tide's season opening win over ECU.</title>
-      <link>https://www.youtube.com/watch?v=aIYBgWjr5Ao</link>
-      <guid isPermaLink="false">aIYBgWjr5Ao</guid>
-      <pubDate>Sat, 05 Sep 2026 20:55:08 +0000</pubDate>
-      <author>Alabama Crimson Tide on AL.com</author>
-      <description>Crimson Tide quarterback Keelon Russell after the Tide's season opening win over ECU.
-
-The Alabama QB shined with 342 total yards (256 passing + 86 rushing) and a rushing TD vs. ECU. ⭐️🐘🏈 #rolltide 
-
-AL.com media coverage presented by Alabama Credit Union</description>
-      <media:thumbnail url="https://i2.ytimg.com/vi/aIYBgWjr5Ao/hqdefault.jpg" width="480" height="360"/>
-      <media:content url="https://www.youtube.com/watch?v=aIYBgWjr5Ao" medium="video"/>
     </item>
   </channel>
 </rss>
