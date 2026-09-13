@@ -4,8 +4,18 @@
     <title>AL.com Sports - Alabama &amp; Auburn Videos</title>
     <link>https://www.al.com</link>
     <description>Combined video feed from Alabama Crimson Tide and Auburn Tigers on AL.com</description>
-    <lastBuildDate>Sun, 13 Sep 2026 14:50:46 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 13 Sep 2026 17:52:09 +0000</lastBuildDate>
     <atom:link rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Byrum Brown on Auburn’s fourth down trick play that resulted in the second TD catch of his career.</title>
+      <link>https://www.youtube.com/shorts/2RUOS9iYHvo</link>
+      <guid isPermaLink="false">2RUOS9iYHvo</guid>
+      <pubDate>Sun, 13 Sep 2026 16:26:57 +0000</pubDate>
+      <author>Auburn Tigers on AL.com</author>
+      <description></description>
+      <media:thumbnail url="https://i3.ytimg.com/vi/2RUOS9iYHvo/hqdefault.jpg" width="480" height="360"/>
+      <media:content url="https://www.youtube.com/watch?v=2RUOS9iYHvo" medium="video"/>
+    </item>
     <item>
       <title>Byrum Brown speaks with the media following Auburn’s win over Southern Miss</title>
       <link>https://www.youtube.com/watch?v=OyXgRetrq1Q</link>
@@ -315,16 +325,6 @@ AL.com media coverage is presented by Inline Electric Supply Co. Inc.
 AL.com media coverage is presented by Medical Properties Trust</description>
       <media:thumbnail url="https://i2.ytimg.com/vi/UQV5g1TMTa4/hqdefault.jpg" width="480" height="360"/>
       <media:content url="https://www.youtube.com/watch?v=UQV5g1TMTa4" medium="video"/>
-    </item>
-    <item>
-      <title>Auburn DL Dallas Walker IV on beating Baylor, playing defense with tempo</title>
-      <link>https://www.youtube.com/watch?v=abTMzOoxKy4</link>
-      <guid isPermaLink="false">abTMzOoxKy4</guid>
-      <pubDate>Tue, 08 Sep 2026 19:24:28 +0000</pubDate>
-      <author>Auburn Tigers on AL.com</author>
-      <description>Auburn DL Dallas Walker IV recaps the Tigers' season opening win in Atlanta and why practicing against their own offense helped with the tempo from Baylor.</description>
-      <media:thumbnail url="https://i2.ytimg.com/vi/abTMzOoxKy4/hqdefault.jpg" width="480" height="360"/>
-      <media:content url="https://www.youtube.com/watch?v=abTMzOoxKy4" medium="video"/>
     </item>
   </channel>
 </rss>
