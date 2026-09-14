@@ -4,8 +4,18 @@
     <title>AL.com Sports - Alabama &amp; Auburn Videos</title>
     <link>https://www.al.com</link>
     <description>Combined video feed from Alabama Crimson Tide and Auburn Tigers on AL.com</description>
-    <lastBuildDate>Mon, 14 Sep 2026 10:43:12 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 16:35:42 +0000</lastBuildDate>
     <atom:link rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Luke Metz is the real deal😤#rolltide #alabamafootball</title>
+      <link>https://www.youtube.com/shorts/BL8dxrttrIg</link>
+      <guid isPermaLink="false">BL8dxrttrIg</guid>
+      <pubDate>Mon, 14 Sep 2026 15:48:46 +0000</pubDate>
+      <author>Alabama Crimson Tide on AL.com</author>
+      <description></description>
+      <media:thumbnail url="https://i3.ytimg.com/vi/BL8dxrttrIg/hqdefault.jpg" width="480" height="360"/>
+      <media:content url="https://www.youtube.com/watch?v=BL8dxrttrIg" medium="video"/>
+    </item>
     <item>
       <title>Daniel Hill on Alabama’s use of 13 personnel in the Tide’s week 1 win over Kentucky</title>
       <link>https://www.youtube.com/shorts/EhKQdvnTMJY</link>
@@ -273,18 +283,6 @@ AL.com media coverage is presented by Alabama Credit Union.</description>
       <description></description>
       <media:thumbnail url="https://i4.ytimg.com/vi/gRZXKFIFfo4/hqdefault.jpg" width="480" height="360"/>
       <media:content url="https://www.youtube.com/watch?v=gRZXKFIFfo4" medium="video"/>
-    </item>
-    <item>
-      <title>Alabama arrives at Kroger Field for afternoon matchup and SEC opener vs Kentucky</title>
-      <link>https://www.youtube.com/watch?v=UlbdKtAG81I</link>
-      <guid isPermaLink="false">UlbdKtAG81I</guid>
-      <pubDate>Sat, 12 Sep 2026 18:21:05 +0000</pubDate>
-      <author>Alabama Crimson Tide on AL.com</author>
-      <description>Kalen DeBoer and the Alabama Crimson Tide arrive at Kroger field ahead of an afternoon, SEC-opening matchup with the Kentucky Wildcats.
-
-AL.com media coverage is presented by Alabama Credit Union</description>
-      <media:thumbnail url="https://i2.ytimg.com/vi/UlbdKtAG81I/hqdefault.jpg" width="480" height="360"/>
-      <media:content url="https://www.youtube.com/watch?v=UlbdKtAG81I" medium="video"/>
     </item>
     <item>
       <title>Auburn’s north endzone renovation project at Jordan-Hare Stadium undergoes groundbreaking!</title>
