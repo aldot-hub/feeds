@@ -4,8 +4,28 @@
     <title>AL.com Sports - Alabama &amp; Auburn Videos</title>
     <link>https://www.al.com</link>
     <description>Combined video feed from Alabama Crimson Tide and Auburn Tigers on AL.com</description>
-    <lastBuildDate>Sun, 13 Sep 2026 22:23:36 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 00:19:15 +0000</lastBuildDate>
     <atom:link rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Daniel Hill on Alabama’s use of 13 personnel in the Tide’s week 1 win over Kentucky</title>
+      <link>https://www.youtube.com/shorts/EhKQdvnTMJY</link>
+      <guid isPermaLink="false">EhKQdvnTMJY</guid>
+      <pubDate>Sun, 13 Sep 2026 23:18:24 +0000</pubDate>
+      <author>Alabama Crimson Tide on AL.com</author>
+      <description></description>
+      <media:thumbnail url="https://i2.ytimg.com/vi/EhKQdvnTMJY/hqdefault.jpg" width="480" height="360"/>
+      <media:content url="https://www.youtube.com/watch?v=EhKQdvnTMJY" medium="video"/>
+    </item>
+    <item>
+      <title>An up-close look at Cody Sigler forcing intentional grounding and a safety!</title>
+      <link>https://www.youtube.com/shorts/ZaKDbvkrnQM</link>
+      <guid isPermaLink="false">ZaKDbvkrnQM</guid>
+      <pubDate>Sun, 13 Sep 2026 22:38:32 +0000</pubDate>
+      <author>Auburn Tigers on AL.com</author>
+      <description></description>
+      <media:thumbnail url="https://i3.ytimg.com/vi/ZaKDbvkrnQM/hqdefault.jpg" width="480" height="360"/>
+      <media:content url="https://www.youtube.com/watch?v=ZaKDbvkrnQM" medium="video"/>
+    </item>
     <item>
       <title>Byrum Brown on Auburn’s fourth down trick play that resulted in the second TD catch of his career.</title>
       <link>https://www.youtube.com/shorts/2RUOS9iYHvo</link>
@@ -267,16 +287,6 @@ AL.com media coverage is presented by Alabama Credit Union</description>
       <media:content url="https://www.youtube.com/watch?v=UlbdKtAG81I" medium="video"/>
     </item>
     <item>
-      <title>Hey freshman you should be partying right now!” #rolltide #alabamafootball</title>
-      <link>https://www.youtube.com/shorts/g4ks-Lq9JDA</link>
-      <guid isPermaLink="false">g4ks-Lq9JDA</guid>
-      <pubDate>Sat, 12 Sep 2026 18:06:54 +0000</pubDate>
-      <author>Alabama Crimson Tide on AL.com</author>
-      <description></description>
-      <media:thumbnail url="https://i4.ytimg.com/vi/g4ks-Lq9JDA/hqdefault.jpg" width="480" height="360"/>
-      <media:content url="https://www.youtube.com/watch?v=g4ks-Lq9JDA" medium="video"/>
-    </item>
-    <item>
       <title>Auburn’s north endzone renovation project at Jordan-Hare Stadium undergoes groundbreaking!</title>
       <link>https://www.youtube.com/shorts/HeLVHmFt2ko</link>
       <guid isPermaLink="false">HeLVHmFt2ko</guid>
@@ -313,18 +323,6 @@ AL.com media coverage is presented by Inline Electric Supply Co. Inc.
 🎥: Peter Rauterkus | AL.com</description>
       <media:thumbnail url="https://i3.ytimg.com/vi/v0CgkPcZB-w/hqdefault.jpg" width="480" height="360"/>
       <media:content url="https://www.youtube.com/watch?v=v0CgkPcZB-w" medium="video"/>
-    </item>
-    <item>
-      <title>The Rewind: Auburn outlasts Baylor in a thriller to open the Golesh Era</title>
-      <link>https://www.youtube.com/watch?v=UQV5g1TMTa4</link>
-      <guid isPermaLink="false">UQV5g1TMTa4</guid>
-      <pubDate>Tue, 08 Sep 2026 21:10:10 +0000</pubDate>
-      <author>Auburn Tigers on AL.com</author>
-      <description>Relive Auburn's nail-biting 17-16 win over Baylor in Atlanta as the 2026 season and Golesh Era on the Plains get underway.
-
-AL.com media coverage is presented by Medical Properties Trust</description>
-      <media:thumbnail url="https://i2.ytimg.com/vi/UQV5g1TMTa4/hqdefault.jpg" width="480" height="360"/>
-      <media:content url="https://www.youtube.com/watch?v=UQV5g1TMTa4" medium="video"/>
     </item>
   </channel>
 </rss>
