@@ -4,8 +4,18 @@
     <title>AL.com Sports - Alabama &amp; Auburn Videos</title>
     <link>https://www.al.com</link>
     <description>Combined video feed from Alabama Crimson Tide and Auburn Tigers on AL.com</description>
-    <lastBuildDate>Tue, 15 Sep 2026 20:20:40 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 23:00:47 +0000</lastBuildDate>
     <atom:link rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Auburn QB Byrum Brown on first SEC game vs. Florida; "My legs are a weapon, you gotta respect that"</title>
+      <link>https://www.youtube.com/watch?v=v5a4W2UitFM</link>
+      <guid isPermaLink="false">v5a4W2UitFM</guid>
+      <pubDate>Tue, 15 Sep 2026 20:31:56 +0000</pubDate>
+      <author>Auburn Tigers on AL.com</author>
+      <description>Auburn quarterback Byrum Brown speaks to the media before his first SEC game against Florida at Jordan-Hare #WarEagle</description>
+      <media:thumbnail url="https://i3.ytimg.com/vi/v5a4W2UitFM/hqdefault.jpg" width="480" height="360"/>
+      <media:content url="https://www.youtube.com/watch?v=v5a4W2UitFM" medium="video"/>
+    </item>
     <item>
       <title>Jackson Lloyd on striving to be better; pride for teammates stepping up in Michael Carroll’s absence</title>
       <link>https://www.youtube.com/shorts/84ep50MykWE</link>
@@ -311,16 +321,6 @@ AL.com media coverage presented by Inline Electric Supply Co. Inc.</description>
       <description></description>
       <media:thumbnail url="https://i4.ytimg.com/vi/KG7x-RxMfaE/hqdefault.jpg" width="480" height="360"/>
       <media:content url="https://www.youtube.com/watch?v=KG7x-RxMfaE" medium="video"/>
-    </item>
-    <item>
-      <title>Xavier Atkins celebrating his birthday before first home game of 2026 at Auburn</title>
-      <link>https://www.youtube.com/shorts/7RIyqAP-klo</link>
-      <guid isPermaLink="false">7RIyqAP-klo</guid>
-      <pubDate>Sat, 12 Sep 2026 22:44:58 +0000</pubDate>
-      <author>Auburn Tigers on AL.com</author>
-      <description></description>
-      <media:thumbnail url="https://i4.ytimg.com/vi/7RIyqAP-klo/hqdefault.jpg" width="480" height="360"/>
-      <media:content url="https://www.youtube.com/watch?v=7RIyqAP-klo" medium="video"/>
     </item>
   </channel>
 </rss>
