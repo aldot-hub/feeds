@@ -4,8 +4,22 @@
     <title>AL.com Sports - Alabama &amp; Auburn Videos</title>
     <link>https://www.al.com</link>
     <description>Combined video feed from Alabama Crimson Tide and Auburn Tigers on AL.com</description>
-    <lastBuildDate>Sun, 20 Sep 2026 09:47:29 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 20 Sep 2026 13:53:02 +0000</lastBuildDate>
     <atom:link rel="self" type="application/rss+xml"/>
+    <item>
+      <title>HIGHLIGHTS: Alabama rallies to take down Florida State; QB Keelon Russell shines with 406 total yds.</title>
+      <link>https://www.youtube.com/watch?v=lYwB6CkG0kc</link>
+      <guid isPermaLink="false">lYwB6CkG0kc</guid>
+      <pubDate>Sun, 20 Sep 2026 13:40:31 +0000</pubDate>
+      <author>Alabama Crimson Tide on AL.com</author>
+      <description>HIGHLIGHTS: Despite the lightning delays, Alabama rallied from down 21-6 to take down Florida State.
+
+QB Keelon Russell threw for 320 yards and 3 touchdowns along with running for 86 and a score in a wild one. 🐘🏈 #rolltide 
+
+AL.com media coverage presented by Alabama Credit Union</description>
+      <media:thumbnail url="https://i1.ytimg.com/vi/lYwB6CkG0kc/hqdefault.jpg" width="480" height="360"/>
+      <media:content url="https://www.youtube.com/watch?v=lYwB6CkG0kc" medium="video"/>
+    </item>
     <item>
       <title>Alex Golesh gives his opening statement following Auburn’s 44-39 loss to Florida. #wareagle #auburn</title>
       <link>https://www.youtube.com/shorts/dpQT7HhZwR0</link>
@@ -299,16 +313,6 @@ AL.com media coverage presented by Alabama Credit Union</description>
       <description></description>
       <media:thumbnail url="https://i4.ytimg.com/vi/Goeiy9tWlyI/hqdefault.jpg" width="480" height="360"/>
       <media:content url="https://www.youtube.com/watch?v=Goeiy9tWlyI" medium="video"/>
-    </item>
-    <item>
-      <title>Keelon Russell leads Alabama out to face Florida State!</title>
-      <link>https://www.youtube.com/shorts/sHR9FphIef4</link>
-      <guid isPermaLink="false">sHR9FphIef4</guid>
-      <pubDate>Sat, 19 Sep 2026 20:59:07 +0000</pubDate>
-      <author>Alabama Crimson Tide on AL.com</author>
-      <description></description>
-      <media:thumbnail url="https://i4.ytimg.com/vi/sHR9FphIef4/hqdefault.jpg" width="480" height="360"/>
-      <media:content url="https://www.youtube.com/watch?v=sHR9FphIef4" medium="video"/>
     </item>
     <item>
       <title>Former Auburn QB and FSU starter Ashton Daniels gets another crack at the Tide, today in Tuscaloosa</title>
