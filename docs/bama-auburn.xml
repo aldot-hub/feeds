@@ -4,8 +4,20 @@
     <title>AL.com Sports - Alabama &amp; Auburn Videos</title>
     <link>https://www.al.com</link>
     <description>Combined video feed from Alabama Crimson Tide and Auburn Tigers on AL.com</description>
-    <lastBuildDate>Sun, 20 Sep 2026 23:33:38 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 21 Sep 2026 01:40:35 +0000</lastBuildDate>
     <atom:link rel="self" type="application/rss+xml"/>
+    <item>
+      <title>A lot of things we’d like to forget from Saturday's loss…but this hurdle from Byrum Brown isn’t one😅</title>
+      <link>https://www.youtube.com/shorts/nRiTaz2Sd9U</link>
+      <guid isPermaLink="false">nRiTaz2Sd9U</guid>
+      <pubDate>Mon, 21 Sep 2026 00:07:50 +0000</pubDate>
+      <author>Auburn Tigers on AL.com</author>
+      <description>There are a lot of things we’d like to forget from Saturday’s loss to Florida…but this hurdle from Byrum Brown to set up Jeremiah Cobb’s TD in the 2nd quarter isn’t one of them. 😅
+
+#wareagle #auburn #wde #auburntigers #auburnfootball</description>
+      <media:thumbnail url="https://i3.ytimg.com/vi/nRiTaz2Sd9U/hqdefault.jpg" width="480" height="360"/>
+      <media:content url="https://www.youtube.com/watch?v=nRiTaz2Sd9U" medium="video"/>
+    </item>
     <item>
       <title>Alabama QB Keelon Russell shows off his speed on this 57-yard touchdown run vs. Florida State</title>
       <link>https://www.youtube.com/watch?v=BRelsXIFSfY</link>
@@ -315,16 +327,6 @@ AL.com media coverage presented by Alabama Credit Union</description>
       <description></description>
       <media:thumbnail url="https://i4.ytimg.com/vi/G27qwInpJiQ/hqdefault.jpg" width="480" height="360"/>
       <media:content url="https://www.youtube.com/watch?v=G27qwInpJiQ" medium="video"/>
-    </item>
-    <item>
-      <title>Former Auburn QB and FSU starter Ashton Daniels gets another crack at the Tide, today in Tuscaloosa</title>
-      <link>https://www.youtube.com/shorts/wDQ8_1XVlqs</link>
-      <guid isPermaLink="false">wDQ8_1XVlqs</guid>
-      <pubDate>Sat, 19 Sep 2026 18:18:56 +0000</pubDate>
-      <author>Auburn Tigers on AL.com</author>
-      <description></description>
-      <media:thumbnail url="https://i4.ytimg.com/vi/wDQ8_1XVlqs/hqdefault.jpg" width="480" height="360"/>
-      <media:content url="https://www.youtube.com/watch?v=wDQ8_1XVlqs" medium="video"/>
     </item>
   </channel>
 </rss>
