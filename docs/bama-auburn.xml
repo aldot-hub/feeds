@@ -4,8 +4,20 @@
     <title>AL.com Sports - Alabama &amp; Auburn Videos</title>
     <link>https://www.al.com</link>
     <description>Combined video feed from Alabama Crimson Tide and Auburn Tigers on AL.com</description>
-    <lastBuildDate>Mon, 21 Sep 2026 07:10:49 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 21 Sep 2026 14:06:58 +0000</lastBuildDate>
     <atom:link rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Alex Golesh in loss to Florida: “It’s my program, they’re my players. I lost today...and I own it.”</title>
+      <link>https://www.youtube.com/shorts/fQoKN62Y2Bo</link>
+      <guid isPermaLink="false">fQoKN62Y2Bo</guid>
+      <pubDate>Mon, 21 Sep 2026 13:49:09 +0000</pubDate>
+      <author>Auburn Tigers on AL.com</author>
+      <description>Auburn head coach Alex Golesh in loss to Florida: “It’s my program, they’re my players. I lost today...and I own it.”
+
+#wareagle #auburn #wde #auburntigers #auburnfootball</description>
+      <media:thumbnail url="https://i3.ytimg.com/vi/fQoKN62Y2Bo/hqdefault.jpg" width="480" height="360"/>
+      <media:content url="https://www.youtube.com/watch?v=fQoKN62Y2Bo" medium="video"/>
+    </item>
     <item>
       <title>A lot of things we’d like to forget from Saturday's loss…but this hurdle from Byrum Brown isn’t one😅</title>
       <link>https://www.youtube.com/shorts/nRiTaz2Sd9U</link>
@@ -317,16 +329,6 @@ AL.com media coverage presented by Alabama Credit Union</description>
       <description></description>
       <media:thumbnail url="https://i3.ytimg.com/vi/bGoeS1Xjruk/hqdefault.jpg" width="480" height="360"/>
       <media:content url="https://www.youtube.com/watch?v=bGoeS1Xjruk" medium="video"/>
-    </item>
-    <item>
-      <title>It’s time for AUBURN football!!!!!! 🦅🐯🏈#wareagle #wde #secfootball #auburn #auburnfootball</title>
-      <link>https://www.youtube.com/shorts/G27qwInpJiQ</link>
-      <guid isPermaLink="false">G27qwInpJiQ</guid>
-      <pubDate>Sat, 19 Sep 2026 21:24:12 +0000</pubDate>
-      <author>Auburn Tigers on AL.com</author>
-      <description></description>
-      <media:thumbnail url="https://i4.ytimg.com/vi/G27qwInpJiQ/hqdefault.jpg" width="480" height="360"/>
-      <media:content url="https://www.youtube.com/watch?v=G27qwInpJiQ" medium="video"/>
     </item>
   </channel>
 </rss>
