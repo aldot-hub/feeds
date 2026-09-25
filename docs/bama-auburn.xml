@@ -4,8 +4,18 @@
     <title>AL.com Sports - Alabama &amp; Auburn Videos</title>
     <link>https://www.al.com</link>
     <description>Combined video feed from Alabama Crimson Tide and Auburn Tigers on AL.com</description>
-    <lastBuildDate>Fri, 25 Sep 2026 15:14:22 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 25 Sep 2026 19:16:27 +0000</lastBuildDate>
     <atom:link rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Peter Rauterkus has three questions Auburn needs to answer against Vanderbilt. #WarEagle</title>
+      <link>https://www.youtube.com/shorts/uc4gF55JBnU</link>
+      <guid isPermaLink="false">uc4gF55JBnU</guid>
+      <pubDate>Fri, 25 Sep 2026 16:34:15 +0000</pubDate>
+      <author>Auburn Tigers on AL.com</author>
+      <description></description>
+      <media:thumbnail url="https://i2.ytimg.com/vi/uc4gF55JBnU/hqdefault.jpg" width="480" height="360"/>
+      <media:content url="https://www.youtube.com/watch?v=uc4gF55JBnU" medium="video"/>
+    </item>
     <item>
       <title>Is Alabama a title contender RIGHT NOW? Don't mess with BAMA FANS! w/ Jake Crain!</title>
       <link>https://www.youtube.com/watch?v=4hAm_bGyE80</link>
@@ -317,16 +327,6 @@ AL.com media coverage presented by Inline Electric Supply Co. Inc.</description>
       <description>Keelon Russell speaks with reporters after the Alabama quarterback led the Crimson Tide past Florida State.</description>
       <media:thumbnail url="https://i3.ytimg.com/vi/6gTVJFk1y3c/hqdefault.jpg" width="480" height="360"/>
       <media:content url="https://www.youtube.com/watch?v=6gTVJFk1y3c" medium="video"/>
-    </item>
-    <item>
-      <title>Auburn fans leave Jordan-Hare Stadium as the Tigers trail the Gators in the fourth quarter #WarEagle</title>
-      <link>https://www.youtube.com/shorts/QpdsyrfsR3c</link>
-      <guid isPermaLink="false">QpdsyrfsR3c</guid>
-      <pubDate>Sun, 20 Sep 2026 02:19:50 +0000</pubDate>
-      <author>Auburn Tigers on AL.com</author>
-      <description></description>
-      <media:thumbnail url="https://i2.ytimg.com/vi/QpdsyrfsR3c/hqdefault.jpg" width="480" height="360"/>
-      <media:content url="https://www.youtube.com/watch?v=QpdsyrfsR3c" medium="video"/>
     </item>
     <item>
       <title>Kalen DeBoer shakes Mike Norvell's hand; Alabama players celebrate after Tide beats Florida State</title>
