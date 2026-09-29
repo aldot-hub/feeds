@@ -4,8 +4,18 @@
     <title>AL.com Sports - Alabama &amp; Auburn Videos</title>
     <link>https://www.al.com</link>
     <description>Combined video feed from Alabama Crimson Tide and Auburn Tigers on AL.com</description>
-    <lastBuildDate>Tue, 29 Sep 2026 19:49:25 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 29 Sep 2026 23:22:24 +0000</lastBuildDate>
     <atom:link rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Alabama’s Bray Hubbard talks Mississippi State and cowbells at practice</title>
+      <link>https://www.youtube.com/shorts/htMlY0RBjW0</link>
+      <guid isPermaLink="false">htMlY0RBjW0</guid>
+      <pubDate>Tue, 29 Sep 2026 20:05:29 +0000</pubDate>
+      <author>Alabama Crimson Tide on AL.com</author>
+      <description></description>
+      <media:thumbnail url="https://i1.ytimg.com/vi/htMlY0RBjW0/hqdefault.jpg" width="480" height="360"/>
+      <media:content url="https://www.youtube.com/watch?v=htMlY0RBjW0" medium="video"/>
+    </item>
     <item>
       <title>Auburn at Tennessee: 2004</title>
       <link>https://www.youtube.com/watch?v=5OKnuNSk_GA</link>
@@ -283,16 +293,6 @@ AL.com media coverage presented by Alabama Credit Union</description>
       <description>Alabama TE Josh Ford talks about his unbelievable one-handed TD grab, getting punched by Dylan Stewart and Alabama's dominating win over South Carolina. Nick Kelly AL.com</description>
       <media:thumbnail url="https://i4.ytimg.com/vi/KvDoElocfpU/hqdefault.jpg" width="480" height="360"/>
       <media:content url="https://www.youtube.com/watch?v=KvDoElocfpU" medium="video"/>
-    </item>
-    <item>
-      <title>Highlights from Alabama's dominant 49-18 win over South Carolina</title>
-      <link>https://www.youtube.com/watch?v=mEX4rLdieyU</link>
-      <guid isPermaLink="false">mEX4rLdieyU</guid>
-      <pubDate>Sun, 27 Sep 2026 04:54:43 +0000</pubDate>
-      <author>Alabama Crimson Tide on AL.com</author>
-      <description>AL.com media covereage presented by Alabama Credit Union</description>
-      <media:thumbnail url="https://i2.ytimg.com/vi/mEX4rLdieyU/hqdefault.jpg" width="480" height="360"/>
-      <media:content url="https://www.youtube.com/watch?v=mEX4rLdieyU" medium="video"/>
     </item>
     <item>
       <title>Auburn head coach Alex Golesh recaps his first SEC win after the Tigers beat Vanderbilt. 🦅🏈</title>
