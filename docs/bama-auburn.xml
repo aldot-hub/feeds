@@ -4,8 +4,18 @@
     <title>AL.com Sports - Alabama &amp; Auburn Videos</title>
     <link>https://www.al.com</link>
     <description>Combined video feed from Alabama Crimson Tide and Auburn Tigers on AL.com</description>
-    <lastBuildDate>Sun, 04 Oct 2026 20:47:11 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 04 Oct 2026 23:46:34 +0000</lastBuildDate>
     <atom:link rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Auburn’s Alex Golesh addresses his decision to go for it on 4th-and-1 late in the game at Tennessee.</title>
+      <link>https://www.youtube.com/shorts/nTY0g6mU1rA</link>
+      <guid isPermaLink="false">nTY0g6mU1rA</guid>
+      <pubDate>Sun, 04 Oct 2026 21:51:02 +0000</pubDate>
+      <author>Auburn Tigers on AL.com</author>
+      <description></description>
+      <media:thumbnail url="https://i3.ytimg.com/vi/nTY0g6mU1rA/hqdefault.jpg" width="480" height="360"/>
+      <media:content url="https://www.youtube.com/watch?v=nTY0g6mU1rA" medium="video"/>
+    </item>
     <item>
       <title>Auburn’s Cole Best takes accountability for the offensive line’s struggles against Tennessee</title>
       <link>https://www.youtube.com/shorts/CbI5hME36xU</link>
@@ -301,16 +311,6 @@ AL.com media coverage presented by Inline Electric Supply Co. Inc.</description>
       <description></description>
       <media:thumbnail url="https://i4.ytimg.com/vi/CILIOvwaYHc/hqdefault.jpg" width="480" height="360"/>
       <media:content url="https://www.youtube.com/watch?v=CILIOvwaYHc" medium="video"/>
-    </item>
-    <item>
-      <title>The Tigers head coach got loose before taking on Tennessee</title>
-      <link>https://www.youtube.com/shorts/trFyL7AD7s0</link>
-      <guid isPermaLink="false">trFyL7AD7s0</guid>
-      <pubDate>Sat, 03 Oct 2026 19:49:27 +0000</pubDate>
-      <author>Auburn Tigers on AL.com</author>
-      <description></description>
-      <media:thumbnail url="https://i1.ytimg.com/vi/trFyL7AD7s0/hqdefault.jpg" width="480" height="360"/>
-      <media:content url="https://www.youtube.com/watch?v=trFyL7AD7s0" medium="video"/>
     </item>
     <item>
       <title>QB1: Alabama quarterback Keelon Russell takes the field for warmups at Mississippi State #RollTide</title>
