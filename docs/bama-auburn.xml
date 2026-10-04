@@ -4,8 +4,28 @@
     <title>AL.com Sports - Alabama &amp; Auburn Videos</title>
     <link>https://www.al.com</link>
     <description>Combined video feed from Alabama Crimson Tide and Auburn Tigers on AL.com</description>
-    <lastBuildDate>Sun, 04 Oct 2026 13:28:14 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 04 Oct 2026 17:46:11 +0000</lastBuildDate>
     <atom:link rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Auburn’s Cole Best takes accountability for the offensive line’s struggles against Tennessee</title>
+      <link>https://www.youtube.com/shorts/CbI5hME36xU</link>
+      <guid isPermaLink="false">CbI5hME36xU</guid>
+      <pubDate>Sun, 04 Oct 2026 15:15:24 +0000</pubDate>
+      <author>Auburn Tigers on AL.com</author>
+      <description></description>
+      <media:thumbnail url="https://i4.ytimg.com/vi/CbI5hME36xU/hqdefault.jpg" width="480" height="360"/>
+      <media:content url="https://www.youtube.com/watch?v=CbI5hME36xU" medium="video"/>
+    </item>
+    <item>
+      <title>Marshall Pritchett with the leap🫪</title>
+      <link>https://www.youtube.com/shorts/W7Vg0K2KjOY</link>
+      <guid isPermaLink="false">W7Vg0K2KjOY</guid>
+      <pubDate>Sun, 04 Oct 2026 15:04:42 +0000</pubDate>
+      <author>Alabama Crimson Tide on AL.com</author>
+      <description></description>
+      <media:thumbnail url="https://i4.ytimg.com/vi/W7Vg0K2KjOY/hqdefault.jpg" width="480" height="360"/>
+      <media:content url="https://www.youtube.com/watch?v=W7Vg0K2KjOY" medium="video"/>
+    </item>
     <item>
       <title>Byrum Brown on the focus during the upcoming bye week ahead of Auburn’s road trip to Georgia</title>
       <link>https://www.youtube.com/shorts/gGTzLHtzxYQ</link>
@@ -53,7 +73,7 @@
       <media:content url="https://www.youtube.com/watch?v=voNkKYC11d4" medium="video"/>
     </item>
     <item>
-      <title>Auburn falls to 3-2 (0-2 SEC) after losing to Tennessee in Knoxville.</title>
+      <title>Auburn falls to 3-2 (1-2 SEC) after losing to Tennessee in Knoxville.</title>
       <link>https://www.youtube.com/shorts/TseMqOl-Oyg</link>
       <guid isPermaLink="false">TseMqOl-Oyg</guid>
       <pubDate>Sun, 04 Oct 2026 00:11:45 +0000</pubDate>
@@ -293,16 +313,6 @@ AL.com media coverage presented by Inline Electric Supply Co. Inc.</description>
       <media:content url="https://www.youtube.com/watch?v=trFyL7AD7s0" medium="video"/>
     </item>
     <item>
-      <title>Auburn quarterback Byrum Brown is getting loose for road showdown with Tennessee in Neyland 😤</title>
-      <link>https://www.youtube.com/shorts/xkvfE2BdJYM</link>
-      <guid isPermaLink="false">xkvfE2BdJYM</guid>
-      <pubDate>Sat, 03 Oct 2026 18:50:11 +0000</pubDate>
-      <author>Auburn Tigers on AL.com</author>
-      <description></description>
-      <media:thumbnail url="https://i1.ytimg.com/vi/xkvfE2BdJYM/hqdefault.jpg" width="480" height="360"/>
-      <media:content url="https://www.youtube.com/watch?v=xkvfE2BdJYM" medium="video"/>
-    </item>
-    <item>
       <title>QB1: Alabama quarterback Keelon Russell takes the field for warmups at Mississippi State #RollTide</title>
       <link>https://www.youtube.com/shorts/WPAr-MSXPCA</link>
       <guid isPermaLink="false">WPAr-MSXPCA</guid>
@@ -311,20 +321,6 @@ AL.com media coverage presented by Inline Electric Supply Co. Inc.</description>
       <description></description>
       <media:thumbnail url="https://i4.ytimg.com/vi/WPAr-MSXPCA/hqdefault.jpg" width="480" height="360"/>
       <media:content url="https://www.youtube.com/watch?v=WPAr-MSXPCA" medium="video"/>
-    </item>
-    <item>
-      <title>A cool scene as Alabama takes the field at Davis Wade ahead of an early matchup vs Mississippi State</title>
-      <link>https://www.youtube.com/shorts/yLWImfAf4rs</link>
-      <guid isPermaLink="false">yLWImfAf4rs</guid>
-      <pubDate>Sat, 03 Oct 2026 16:45:31 +0000</pubDate>
-      <author>Alabama Crimson Tide on AL.com</author>
-      <description>A cool scene as Alabama takes the field at Davis Wade Stadium ahead of an early matchup with Mississippi State.
-
-🐮🔔🏈🐘
-
-#rolltide #alabama #alabamafootball #rtr #crimsontide</description>
-      <media:thumbnail url="https://i2.ytimg.com/vi/yLWImfAf4rs/hqdefault.jpg" width="480" height="360"/>
-      <media:content url="https://www.youtube.com/watch?v=yLWImfAf4rs" medium="video"/>
     </item>
   </channel>
 </rss>
