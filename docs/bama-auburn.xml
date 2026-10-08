@@ -4,8 +4,30 @@
     <title>AL.com Sports - Alabama &amp; Auburn Videos</title>
     <link>https://www.al.com</link>
     <description>Combined video feed from Alabama Crimson Tide and Auburn Tigers on AL.com</description>
-    <lastBuildDate>Wed, 07 Oct 2026 21:27:07 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 01:10:56 +0000</lastBuildDate>
     <atom:link rel="self" type="application/rss+xml"/>
+    <item>
+      <title>October 7, 2026</title>
+      <link>https://www.youtube.com/shorts/JFDQn9Trkdg</link>
+      <guid isPermaLink="false">JFDQn9Trkdg</guid>
+      <pubDate>Wed, 07 Oct 2026 23:56:27 +0000</pubDate>
+      <author>Alabama Crimson Tide on AL.com</author>
+      <description></description>
+      <media:thumbnail url="https://i3.ytimg.com/vi/JFDQn9Trkdg/hqdefault.jpg" width="480" height="360"/>
+      <media:content url="https://www.youtube.com/watch?v=JFDQn9Trkdg" medium="video"/>
+    </item>
+    <item>
+      <title>KAITLAN COLLINS on why she LOVES Alabama football! ✈️ TRUMP coming to Alabama-Georgia</title>
+      <link>https://www.youtube.com/watch?v=YdSDjPx8s90</link>
+      <guid isPermaLink="false">YdSDjPx8s90</guid>
+      <pubDate>Wed, 07 Oct 2026 23:30:27 +0000</pubDate>
+      <author>Alabama Crimson Tide on AL.com</author>
+      <description>Kaitlan Collins is back! The Alabama native and CNN star is a die-hard Crimson Tide fan who loves to talk about her fandom whenever she gets the chance. Collins talks about the 2026 season so far, the job Kalen DeBoer is doing in year three, what she thinks of QB Keelon Russell, and much more. And just when she thought she would sneak away from Washington D.C. to catch a Bama in person, President Donald Trump announces he will attend the Tide's game against Georgia. Collins shares her thoughts on Trump coming back to Tuscaloosa and what it's like covering him 24/7. And Kaitlan plays our new game, "DC or D.C." Also, some thoughts on the passing of former Alabama head coach Dennis Franchione, with AL.com's Creg Stephenson.
+
+Brought to you by Meta. Meta is investing over $1.5 billion in Montgomery. We don't just build here. We invest here. https://meta.com/BuildingMontgomery</description>
+      <media:thumbnail url="https://i2.ytimg.com/vi/YdSDjPx8s90/hqdefault.jpg" width="480" height="360"/>
+      <media:content url="https://www.youtube.com/watch?v=YdSDjPx8s90" medium="video"/>
+    </item>
     <item>
       <title>Reporter Jerry Humphrey III breaks down how AL.com has graded the Tigers’ first five games</title>
       <link>https://www.youtube.com/shorts/w8_Ccvkz_XY</link>
@@ -307,26 +329,6 @@ AL.com media coverage presented by Inline Electric Supply Co. Inc.</description>
       <description></description>
       <media:thumbnail url="https://i1.ytimg.com/vi/8xWSoyysC-o/hqdefault.jpg" width="480" height="360"/>
       <media:content url="https://www.youtube.com/watch?v=8xWSoyysC-o" medium="video"/>
-    </item>
-    <item>
-      <title>Alabama dominates Mississippi State in enemy territory. #rolltide #alabamafootball</title>
-      <link>https://www.youtube.com/shorts/_aXoj2eq4v0</link>
-      <guid isPermaLink="false">_aXoj2eq4v0</guid>
-      <pubDate>Sat, 03 Oct 2026 21:57:00 +0000</pubDate>
-      <author>Alabama Crimson Tide on AL.com</author>
-      <description></description>
-      <media:thumbnail url="https://i4.ytimg.com/vi/_aXoj2eq4v0/hqdefault.jpg" width="480" height="360"/>
-      <media:content url="https://www.youtube.com/watch?v=_aXoj2eq4v0" medium="video"/>
-    </item>
-    <item>
-      <title>Highlights from Alabama's commanding win over MSU 56-23</title>
-      <link>https://www.youtube.com/watch?v=nACbOkH-9sk</link>
-      <guid isPermaLink="false">nACbOkH-9sk</guid>
-      <pubDate>Sat, 03 Oct 2026 21:37:33 +0000</pubDate>
-      <author>Alabama Crimson Tide on AL.com</author>
-      <description>Alabama media coverage presented by Alabama Credit Union</description>
-      <media:thumbnail url="https://i3.ytimg.com/vi/nACbOkH-9sk/hqdefault.jpg" width="480" height="360"/>
-      <media:content url="https://www.youtube.com/watch?v=nACbOkH-9sk" medium="video"/>
     </item>
   </channel>
 </rss>
