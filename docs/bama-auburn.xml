@@ -4,8 +4,18 @@
     <title>AL.com Sports - Alabama &amp; Auburn Videos</title>
     <link>https://www.al.com</link>
     <description>Combined video feed from Alabama Crimson Tide and Auburn Tigers on AL.com</description>
-    <lastBuildDate>Thu, 15 Oct 2026 14:40:12 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 18:39:07 +0000</lastBuildDate>
     <atom:link rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Auburn's 2005 win over Georgia in Athens featured a wild 4th down play in the final minutes</title>
+      <link>https://www.youtube.com/watch?v=aIKl4N5qDbQ</link>
+      <guid isPermaLink="false">aIKl4N5qDbQ</guid>
+      <pubDate>Thu, 15 Oct 2026 16:32:05 +0000</pubDate>
+      <author>Auburn Tigers on AL.com</author>
+      <description>Auburn defeated Georgia 31-30 in 2005 off the foot of field goal kicker John Vaughn. The winning kick came after Brandon Cox's 63-yard pass to Devin Aromashodu on 4th and 10 with less than two minutes to play.</description>
+      <media:thumbnail url="https://i2.ytimg.com/vi/aIKl4N5qDbQ/hqdefault.jpg" width="480" height="360"/>
+      <media:content url="https://www.youtube.com/watch?v=aIKl4N5qDbQ" medium="video"/>
+    </item>
     <item>
       <title>Steven Pearl speaks after Tigers' 82-71 exhibition loss to Florida State in Boutwell Auditorium</title>
       <link>https://www.youtube.com/watch?v=Pywkt-5DPXI</link>
@@ -287,16 +297,6 @@ Video: Peter Rauterkus | AL.com</description>
       <description></description>
       <media:thumbnail url="https://i4.ytimg.com/vi/okwcGUidsTc/hqdefault.jpg" width="480" height="360"/>
       <media:content url="https://www.youtube.com/watch?v=okwcGUidsTc" medium="video"/>
-    </item>
-    <item>
-      <title>Auburn guard Kevin Overton on being a leader for the team while at SEC Tipoff</title>
-      <link>https://www.youtube.com/watch?v=ZYNO9qzzO6k</link>
-      <guid isPermaLink="false">ZYNO9qzzO6k</guid>
-      <pubDate>Tue, 13 Oct 2026 17:24:34 +0000</pubDate>
-      <author>Auburn Tigers on AL.com</author>
-      <description>AL.com media coverage presented by Meta</description>
-      <media:thumbnail url="https://i3.ytimg.com/vi/ZYNO9qzzO6k/hqdefault.jpg" width="480" height="360"/>
-      <media:content url="https://www.youtube.com/watch?v=ZYNO9qzzO6k" medium="video"/>
     </item>
     <item>
       <title>Alabama DC Kane Wommack on where the defense came up short in Saturday’s loss to Georgia</title>
