@@ -4,8 +4,30 @@
     <title>AL.com Sports - Alabama &amp; Auburn Videos</title>
     <link>https://www.al.com</link>
     <description>Combined video feed from Alabama Crimson Tide and Auburn Tigers on AL.com</description>
-    <lastBuildDate>Thu, 15 Oct 2026 21:46:19 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 16 Oct 2026 00:00:45 +0000</lastBuildDate>
     <atom:link rel="self" type="application/rss+xml"/>
+    <item>
+      <title>The SEC team this Alabama &amp; Dallas Cowboys star HATED the most!</title>
+      <link>https://www.youtube.com/shorts/Bpe5qlhtHuA</link>
+      <guid isPermaLink="false">Bpe5qlhtHuA</guid>
+      <pubDate>Thu, 15 Oct 2026 23:30:21 +0000</pubDate>
+      <author>Alabama Crimson Tide on AL.com</author>
+      <description>Favorite Alabama teammate, toughest guy to block in the NFL, the SEC team he hated the most. Rapid fire questions with Dallas Cowboys offensive lineman and former Alabama football star Tyler Boker.</description>
+      <media:thumbnail url="https://i3.ytimg.com/vi/Bpe5qlhtHuA/hqdefault.jpg" width="480" height="360"/>
+      <media:content url="https://www.youtube.com/watch?v=Bpe5qlhtHuA" medium="video"/>
+    </item>
+    <item>
+      <title>The Victory Cigar: What's it like to be a cigar shop during Alabama-Tennessee rivalry week?</title>
+      <link>https://www.youtube.com/shorts/guNwGndexqE</link>
+      <guid isPermaLink="false">guNwGndexqE</guid>
+      <pubDate>Thu, 15 Oct 2026 22:26:21 +0000</pubDate>
+      <author>Alabama Crimson Tide on AL.com</author>
+      <description>For football fans in Alabama and Tennessee, the Third Saturday in October means participating in one of the greatest traditions in college football…but only if you win! Gary Conger from Cigars &amp; More 280 in Birmingham explains the tradition of the victory cigar, how it became a part of the Alabama-Tennessee rivalry, and why it’s so special for fans.
+
+#rolltide #alabamafootball #rtr #gbo #tennesseefootball</description>
+      <media:thumbnail url="https://i4.ytimg.com/vi/guNwGndexqE/hqdefault.jpg" width="480" height="360"/>
+      <media:content url="https://www.youtube.com/watch?v=guNwGndexqE" medium="video"/>
+    </item>
     <item>
       <title>Auburn's 2005 win over Georgia in Athens featured a wild 4th down play in the final minutes</title>
       <link>https://www.youtube.com/watch?v=aIKl4N5qDbQ</link>
@@ -297,30 +319,6 @@ Video: Peter Rauterkus | AL.com</description>
       <description></description>
       <media:thumbnail url="https://i4.ytimg.com/vi/okwcGUidsTc/hqdefault.jpg" width="480" height="360"/>
       <media:content url="https://www.youtube.com/watch?v=okwcGUidsTc" medium="video"/>
-    </item>
-    <item>
-      <title>Alabama DC Kane Wommack on where the defense came up short in Saturday’s loss to Georgia</title>
-      <link>https://www.youtube.com/shorts/MyBJTq8nGqE</link>
-      <guid isPermaLink="false">MyBJTq8nGqE</guid>
-      <pubDate>Mon, 12 Oct 2026 18:34:42 +0000</pubDate>
-      <author>Alabama Crimson Tide on AL.com</author>
-      <description>Alabama DC Kane Wommack on where the defense came up short in Saturday’s loss to Georgia.
-
-#rolltide #rtr #alabama #alabamafootball #secfootball</description>
-      <media:thumbnail url="https://i2.ytimg.com/vi/MyBJTq8nGqE/hqdefault.jpg" width="480" height="360"/>
-      <media:content url="https://www.youtube.com/watch?v=MyBJTq8nGqE" medium="video"/>
-    </item>
-    <item>
-      <title>Alabama OC Ryan Grubb on Saturday’s loss to Georgia: “We had plenty of chances to win the game”</title>
-      <link>https://www.youtube.com/shorts/WQKWlRCZU5Y</link>
-      <guid isPermaLink="false">WQKWlRCZU5Y</guid>
-      <pubDate>Mon, 12 Oct 2026 18:15:25 +0000</pubDate>
-      <author>Alabama Crimson Tide on AL.com</author>
-      <description>Alabama OC Ryan Grubb did not want to talk about the officiating in Saturday’s loss to Georgia: “We had plenty of chances to win the game.”
-
-#rolltide #rtr #alabama #alabamafootball #secfootball</description>
-      <media:thumbnail url="https://i4.ytimg.com/vi/WQKWlRCZU5Y/hqdefault.jpg" width="480" height="360"/>
-      <media:content url="https://www.youtube.com/watch?v=WQKWlRCZU5Y" medium="video"/>
     </item>
   </channel>
 </rss>
