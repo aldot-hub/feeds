@@ -4,8 +4,38 @@
     <title>AL.com Sports - Alabama &amp; Auburn Videos</title>
     <link>https://www.al.com</link>
     <description>Combined video feed from Alabama Crimson Tide and Auburn Tigers on AL.com</description>
-    <lastBuildDate>Sun, 18 Oct 2026 19:11:52 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 18 Oct 2026 21:30:09 +0000</lastBuildDate>
     <atom:link rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Toomer’s Corner after Auburn upsets No. 1 Georgia! 🌳🧻🌳 Footage by Laura Sellers, REALTOR®</title>
+      <link>https://www.youtube.com/shorts/vp1ku6UbSjo</link>
+      <guid isPermaLink="false">vp1ku6UbSjo</guid>
+      <pubDate>Sun, 18 Oct 2026 20:37:49 +0000</pubDate>
+      <author>Auburn Tigers on AL.com</author>
+      <description></description>
+      <media:thumbnail url="https://i3.ytimg.com/vi/vp1ku6UbSjo/hqdefault.jpg" width="480" height="360"/>
+      <media:content url="https://www.youtube.com/watch?v=vp1ku6UbSjo" medium="video"/>
+    </item>
+    <item>
+      <title>Auburn’s Sylvester Smith-Reed says the Tigers didn’t flinch after Georgia took a 14-0 lead #WDE</title>
+      <link>https://www.youtube.com/shorts/zX8OkX5xljk</link>
+      <guid isPermaLink="false">zX8OkX5xljk</guid>
+      <pubDate>Sun, 18 Oct 2026 20:27:30 +0000</pubDate>
+      <author>Auburn Tigers on AL.com</author>
+      <description></description>
+      <media:thumbnail url="https://i3.ytimg.com/vi/zX8OkX5xljk/hqdefault.jpg" width="480" height="360"/>
+      <media:content url="https://www.youtube.com/watch?v=zX8OkX5xljk" medium="video"/>
+    </item>
+    <item>
+      <title>Kalen DeBoer on the strength of the SEC after Alabama’s loss to Tennessee. #collegefootball</title>
+      <link>https://www.youtube.com/shorts/esxjyLvoIOg</link>
+      <guid isPermaLink="false">esxjyLvoIOg</guid>
+      <pubDate>Sun, 18 Oct 2026 20:03:01 +0000</pubDate>
+      <author>Alabama Crimson Tide on AL.com</author>
+      <description></description>
+      <media:thumbnail url="https://i2.ytimg.com/vi/esxjyLvoIOg/hqdefault.jpg" width="480" height="360"/>
+      <media:content url="https://www.youtube.com/watch?v=esxjyLvoIOg" medium="video"/>
+    </item>
     <item>
       <title>Auburn’s fumble recovery late in the 4th quarter at Georgia set up its game-winning drive #WarEagle</title>
       <link>https://www.youtube.com/shorts/aka6gLWsYOQ</link>
@@ -183,30 +213,6 @@ AL.com media coverage is presented by Inline Electric Supply Co. Inc.</descripti
       <media:content url="https://www.youtube.com/watch?v=i5N1pfb6KE0" medium="video"/>
     </item>
     <item>
-      <title>Auburn’s Alex McPherson after kicking the game-winning field goal to beat Georgia #WarEagle</title>
-      <link>https://www.youtube.com/shorts/z1cq06VR5V8</link>
-      <guid isPermaLink="false">z1cq06VR5V8</guid>
-      <pubDate>Sun, 18 Oct 2026 00:41:29 +0000</pubDate>
-      <author>Auburn Tigers on AL.com</author>
-      <description></description>
-      <media:thumbnail url="https://i3.ytimg.com/vi/z1cq06VR5V8/hqdefault.jpg" width="480" height="360"/>
-      <media:content url="https://www.youtube.com/watch?v=z1cq06VR5V8" medium="video"/>
-    </item>
-    <item>
-      <title>What a moment between Alex Golesh and Kodi Burns after Auburn upset top-ranked Georgia in Athens! 🥹👏</title>
-      <link>https://www.youtube.com/shorts/Ak_IAKxI8aE</link>
-      <guid isPermaLink="false">Ak_IAKxI8aE</guid>
-      <pubDate>Sun, 18 Oct 2026 00:34:37 +0000</pubDate>
-      <author>Auburn Tigers on AL.com</author>
-      <description>What a moment between Alex Golesh and Kodi Burns after Auburn upset top-ranked Georgia in Athens! 🥹👏
-
-“WE’RE NOT DONE YET!”
-
-#wareagle #wde #secfootball #auburn #auburnfootball</description>
-      <media:thumbnail url="https://i2.ytimg.com/vi/Ak_IAKxI8aE/hqdefault.jpg" width="480" height="360"/>
-      <media:content url="https://www.youtube.com/watch?v=Ak_IAKxI8aE" medium="video"/>
-    </item>
-    <item>
       <title>Tennessee fans sing Dixieland Delight as Alabama's streak of fans storming the field continues</title>
       <link>https://www.youtube.com/watch?v=iwoU7F7WZsw</link>
       <guid isPermaLink="false">iwoU7F7WZsw</guid>
@@ -321,16 +327,6 @@ AL.com media coverage presented by Alabama Credit Union</description>
 AL.com media coverage presented by Alabama Credit Union</description>
       <media:thumbnail url="https://i1.ytimg.com/vi/xbQCW6kkQ1I/hqdefault.jpg" width="480" height="360"/>
       <media:content url="https://www.youtube.com/watch?v=xbQCW6kkQ1I" medium="video"/>
-    </item>
-    <item>
-      <title>Kalen DeBoer, Keelon Russell and the Crimson Tide are in the building to take on the Volunteers. 🐘</title>
-      <link>https://www.youtube.com/shorts/mWBVsD1KM3E</link>
-      <guid isPermaLink="false">mWBVsD1KM3E</guid>
-      <pubDate>Sat, 17 Oct 2026 17:51:34 +0000</pubDate>
-      <author>Alabama Crimson Tide on AL.com</author>
-      <description></description>
-      <media:thumbnail url="https://i2.ytimg.com/vi/mWBVsD1KM3E/hqdefault.jpg" width="480" height="360"/>
-      <media:content url="https://www.youtube.com/watch?v=mWBVsD1KM3E" medium="video"/>
     </item>
   </channel>
 </rss>
