@@ -4,8 +4,18 @@
     <title>AL.com Sports - Alabama &amp; Auburn Videos</title>
     <link>https://www.al.com</link>
     <description>Combined video feed from Alabama Crimson Tide and Auburn Tigers on AL.com</description>
-    <lastBuildDate>Tue, 20 Oct 2026 12:54:11 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2026 17:43:29 +0000</lastBuildDate>
     <atom:link rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Alabama tight end Marshall Pritchett on being uncomfortable as playoffs get closer. #rolltide</title>
+      <link>https://www.youtube.com/shorts/WAOsfwslVqs</link>
+      <guid isPermaLink="false">WAOsfwslVqs</guid>
+      <pubDate>Tue, 20 Oct 2026 17:25:18 +0000</pubDate>
+      <author>Alabama Crimson Tide on AL.com</author>
+      <description></description>
+      <media:thumbnail url="https://i4.ytimg.com/vi/WAOsfwslVqs/hqdefault.jpg" width="480" height="360"/>
+      <media:content url="https://www.youtube.com/watch?v=WAOsfwslVqs" medium="video"/>
+    </item>
     <item>
       <title>What went WRONG vs. Tennessee? 😮 Is it TOO LATE for Alabama?! w/ CHRISTIAN MILLER!</title>
       <link>https://www.youtube.com/watch?v=LewugHRz4Io</link>
@@ -320,16 +330,6 @@ Every Bama road loss since 2010 has seen the opposing fans storm the field. #Rol
       <description></description>
       <media:thumbnail url="https://i2.ytimg.com/vi/qXaVTWvm_cw/hqdefault.jpg" width="480" height="360"/>
       <media:content url="https://www.youtube.com/watch?v=qXaVTWvm_cw" medium="video"/>
-    </item>
-    <item>
-      <title>Kalen DeBoer finds Josh Heupel after Alabama's loss at Tennessee</title>
-      <link>https://www.youtube.com/shorts/sXXdsWOCtqI</link>
-      <guid isPermaLink="false">sXXdsWOCtqI</guid>
-      <pubDate>Sun, 18 Oct 2026 00:04:13 +0000</pubDate>
-      <author>Alabama Crimson Tide on AL.com</author>
-      <description></description>
-      <media:thumbnail url="https://i4.ytimg.com/vi/sXXdsWOCtqI/hqdefault.jpg" width="480" height="360"/>
-      <media:content url="https://www.youtube.com/watch?v=sXXdsWOCtqI" medium="video"/>
     </item>
   </channel>
 </rss>
