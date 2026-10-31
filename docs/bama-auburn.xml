@@ -4,8 +4,28 @@
     <title>AL.com Sports - Alabama &amp; Auburn Videos</title>
     <link>https://www.al.com</link>
     <description>Combined video feed from Alabama Crimson Tide and Auburn Tigers on AL.com</description>
-    <lastBuildDate>Sat, 31 Oct 2026 17:46:53 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 31 Oct 2026 20:53:47 +0000</lastBuildDate>
     <atom:link rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Members of Auburn’s team caught up with their former teammate Deuce Knight after the Ole Miss game.</title>
+      <link>https://www.youtube.com/shorts/kCRrqyHDZqo</link>
+      <guid isPermaLink="false">kCRrqyHDZqo</guid>
+      <pubDate>Sat, 31 Oct 2026 20:39:56 +0000</pubDate>
+      <author>Auburn Tigers on AL.com</author>
+      <description></description>
+      <media:thumbnail url="https://i4.ytimg.com/vi/kCRrqyHDZqo/hqdefault.jpg" width="480" height="360"/>
+      <media:content url="https://www.youtube.com/watch?v=kCRrqyHDZqo" medium="video"/>
+    </item>
+    <item>
+      <title>Auburn has a tough day at the office as the tigers drop to Ole Miss 45-15. #wareagle</title>
+      <link>https://www.youtube.com/shorts/BYDBHmiZKt0</link>
+      <guid isPermaLink="false">BYDBHmiZKt0</guid>
+      <pubDate>Sat, 31 Oct 2026 20:37:29 +0000</pubDate>
+      <author>Auburn Tigers on AL.com</author>
+      <description></description>
+      <media:thumbnail url="https://i3.ytimg.com/vi/BYDBHmiZKt0/hqdefault.jpg" width="480" height="360"/>
+      <media:content url="https://www.youtube.com/watch?v=BYDBHmiZKt0" medium="video"/>
+    </item>
     <item>
       <title>Auburn arrives to take on No. 12 Ole Miss in Oxford! #WarEagle #CFB #SEC</title>
       <link>https://www.youtube.com/shorts/2bTF5RfYL_k</link>
@@ -311,26 +331,6 @@ Video: Nick Kelly</description>
       <description>Keelon Russell speaks with reporters after Alabama's win over Texas A&amp;M on Oct. 24, 2026.</description>
       <media:thumbnail url="https://i2.ytimg.com/vi/ugFDp78TKgI/hqdefault.jpg" width="480" height="360"/>
       <media:content url="https://www.youtube.com/watch?v=ugFDp78TKgI" medium="video"/>
-    </item>
-    <item>
-      <title>What Lane Kiffin had to say after LSU dominates Auburn 38-17</title>
-      <link>https://www.youtube.com/watch?v=DCuf1NRQSX4</link>
-      <guid isPermaLink="false">DCuf1NRQSX4</guid>
-      <pubDate>Sat, 24 Oct 2026 21:44:58 +0000</pubDate>
-      <author>Auburn Tigers on AL.com</author>
-      <description>Video courtesy of LSU athletics</description>
-      <media:thumbnail url="https://i1.ytimg.com/vi/DCuf1NRQSX4/hqdefault.jpg" width="480" height="360"/>
-      <media:content url="https://www.youtube.com/watch?v=DCuf1NRQSX4" medium="video"/>
-    </item>
-    <item>
-      <title>LB Elijah Melendez addresses the media following Auburn's 38-17 loss to LSU</title>
-      <link>https://www.youtube.com/watch?v=C4X67SPPnjM</link>
-      <guid isPermaLink="false">C4X67SPPnjM</guid>
-      <pubDate>Sat, 24 Oct 2026 21:18:52 +0000</pubDate>
-      <author>Auburn Tigers on AL.com</author>
-      <description>Auburn linebacker Elijah Melendez addresses the media following the Tigers' 38-17 loss to LSU.</description>
-      <media:thumbnail url="https://i4.ytimg.com/vi/C4X67SPPnjM/hqdefault.jpg" width="480" height="360"/>
-      <media:content url="https://www.youtube.com/watch?v=C4X67SPPnjM" medium="video"/>
     </item>
   </channel>
 </rss>
