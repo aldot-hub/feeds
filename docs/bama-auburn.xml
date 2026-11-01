@@ -4,8 +4,18 @@
     <title>AL.com Sports - Alabama &amp; Auburn Videos</title>
     <link>https://www.al.com</link>
     <description>Combined video feed from Alabama Crimson Tide and Auburn Tigers on AL.com</description>
-    <lastBuildDate>Sun, 01 Nov 2026 10:58:45 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 01 Nov 2026 17:02:54 +0000</lastBuildDate>
     <atom:link rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Defensive lineman Dallas Walker on what it takes to get defensive mistakes corrected.#wareagle</title>
+      <link>https://www.youtube.com/shorts/FnHv7FQqnfw</link>
+      <guid isPermaLink="false">FnHv7FQqnfw</guid>
+      <pubDate>Sun, 01 Nov 2026 15:05:50 +0000</pubDate>
+      <author>Auburn Tigers on AL.com</author>
+      <description></description>
+      <media:thumbnail url="https://i3.ytimg.com/vi/FnHv7FQqnfw/hqdefault.jpg" width="480" height="360"/>
+      <media:content url="https://www.youtube.com/watch?v=FnHv7FQqnfw" medium="video"/>
+    </item>
     <item>
       <title>Fans (and media members!) attended Auburn’s game at Ole Miss in various Halloween costumes</title>
       <link>https://www.youtube.com/shorts/uyNkQdUS7z0</link>
@@ -147,16 +157,6 @@
       <description></description>
       <media:thumbnail url="https://i3.ytimg.com/vi/24BV9FLXnW4/hqdefault.jpg" width="480" height="360"/>
       <media:content url="https://www.youtube.com/watch?v=24BV9FLXnW4" medium="video"/>
-    </item>
-    <item>
-      <title>Alex McPherson looking sharp in warmups before Auburn plays Ole Miss in Oxford #WarEagle</title>
-      <link>https://www.youtube.com/shorts/TUJdRmzHFG4</link>
-      <guid isPermaLink="false">TUJdRmzHFG4</guid>
-      <pubDate>Sat, 31 Oct 2026 15:40:05 +0000</pubDate>
-      <author>Auburn Tigers on AL.com</author>
-      <description></description>
-      <media:thumbnail url="https://i1.ytimg.com/vi/TUJdRmzHFG4/hqdefault.jpg" width="480" height="360"/>
-      <media:content url="https://www.youtube.com/watch?v=TUJdRmzHFG4" medium="video"/>
     </item>
     <item>
       <title>The Saban family celebrated Coach’s birthday a little early, since he’ll be on the road with GameDay</title>
