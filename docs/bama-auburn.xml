@@ -4,8 +4,18 @@
     <title>AL.com Sports - Alabama &amp; Auburn Videos</title>
     <link>https://www.al.com</link>
     <description>Combined video feed from Alabama Crimson Tide and Auburn Tigers on AL.com</description>
-    <lastBuildDate>Sun, 01 Nov 2026 17:02:54 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 01 Nov 2026 21:09:49 +0000</lastBuildDate>
     <atom:link rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Auburn’s Christian Neptune is asked about Alex Golesh’s “lack of finish”comments at Ole Miss</title>
+      <link>https://www.youtube.com/shorts/xINvEfeW_Tk</link>
+      <guid isPermaLink="false">xINvEfeW_Tk</guid>
+      <pubDate>Sun, 01 Nov 2026 18:25:56 +0000</pubDate>
+      <author>Auburn Tigers on AL.com</author>
+      <description></description>
+      <media:thumbnail url="https://i1.ytimg.com/vi/xINvEfeW_Tk/hqdefault.jpg" width="480" height="360"/>
+      <media:content url="https://www.youtube.com/watch?v=xINvEfeW_Tk" medium="video"/>
+    </item>
     <item>
       <title>Defensive lineman Dallas Walker on what it takes to get defensive mistakes corrected.#wareagle</title>
       <link>https://www.youtube.com/shorts/FnHv7FQqnfw</link>
@@ -147,16 +157,6 @@
       <description></description>
       <media:thumbnail url="https://i3.ytimg.com/vi/2k48xVmGIPg/hqdefault.jpg" width="480" height="360"/>
       <media:content url="https://www.youtube.com/watch?v=2k48xVmGIPg" medium="video"/>
-    </item>
-    <item>
-      <title>Auburn and Ole Miss are set for the first SEC game of the weekend #WarEagle</title>
-      <link>https://www.youtube.com/shorts/24BV9FLXnW4</link>
-      <guid isPermaLink="false">24BV9FLXnW4</guid>
-      <pubDate>Sat, 31 Oct 2026 15:54:37 +0000</pubDate>
-      <author>Auburn Tigers on AL.com</author>
-      <description></description>
-      <media:thumbnail url="https://i3.ytimg.com/vi/24BV9FLXnW4/hqdefault.jpg" width="480" height="360"/>
-      <media:content url="https://www.youtube.com/watch?v=24BV9FLXnW4" medium="video"/>
     </item>
     <item>
       <title>The Saban family celebrated Coach’s birthday a little early, since he’ll be on the road with GameDay</title>
