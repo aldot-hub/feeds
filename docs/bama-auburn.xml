@@ -4,8 +4,18 @@
     <title>AL.com Sports - Alabama &amp; Auburn Videos</title>
     <link>https://www.al.com</link>
     <description>Combined video feed from Alabama Crimson Tide and Auburn Tigers on AL.com</description>
-    <lastBuildDate>Sun, 01 Nov 2026 21:09:49 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 02 Nov 2026 00:41:35 +0000</lastBuildDate>
     <atom:link rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Tell us how you feel about Deuce Knight scoring a touchdown against Auburn, his former team.</title>
+      <link>https://www.youtube.com/shorts/VWXdSqMhGyQ</link>
+      <guid isPermaLink="false">VWXdSqMhGyQ</guid>
+      <pubDate>Sun, 01 Nov 2026 23:08:28 +0000</pubDate>
+      <author>Auburn Tigers on AL.com</author>
+      <description></description>
+      <media:thumbnail url="https://i3.ytimg.com/vi/VWXdSqMhGyQ/hqdefault.jpg" width="480" height="360"/>
+      <media:content url="https://www.youtube.com/watch?v=VWXdSqMhGyQ" medium="video"/>
+    </item>
     <item>
       <title>Auburn’s Christian Neptune is asked about Alex Golesh’s “lack of finish”comments at Ole Miss</title>
       <link>https://www.youtube.com/shorts/xINvEfeW_Tk</link>
@@ -147,16 +157,6 @@
       <description></description>
       <media:thumbnail url="https://i3.ytimg.com/vi/2bTF5RfYL_k/hqdefault.jpg" width="480" height="360"/>
       <media:content url="https://www.youtube.com/watch?v=2bTF5RfYL_k" medium="video"/>
-    </item>
-    <item>
-      <title>Auburn punter Hudson Kaak has a secret talent 🤹 🏈 #WarEagle #juggling #CFB</title>
-      <link>https://www.youtube.com/shorts/2k48xVmGIPg</link>
-      <guid isPermaLink="false">2k48xVmGIPg</guid>
-      <pubDate>Sat, 31 Oct 2026 16:17:06 +0000</pubDate>
-      <author>Auburn Tigers on AL.com</author>
-      <description></description>
-      <media:thumbnail url="https://i3.ytimg.com/vi/2k48xVmGIPg/hqdefault.jpg" width="480" height="360"/>
-      <media:content url="https://www.youtube.com/watch?v=2k48xVmGIPg" medium="video"/>
     </item>
     <item>
       <title>The Saban family celebrated Coach’s birthday a little early, since he’ll be on the road with GameDay</title>
