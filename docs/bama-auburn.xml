@@ -4,8 +4,18 @@
     <title>AL.com Sports - Alabama &amp; Auburn Videos</title>
     <link>https://www.al.com</link>
     <description>Combined video feed from Alabama Crimson Tide and Auburn Tigers on AL.com</description>
-    <lastBuildDate>Sun, 22 Nov 2026 09:38:30 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 22 Nov 2026 17:23:30 +0000</lastBuildDate>
     <atom:link rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Former Auburn coaches Gene Chizik &amp; Gus Malzahn reunited Saturday before the Samford game! #WarEagle</title>
+      <link>https://www.youtube.com/shorts/jyKNUFm_8wg</link>
+      <guid isPermaLink="false">jyKNUFm_8wg</guid>
+      <pubDate>Sun, 22 Nov 2026 16:29:52 +0000</pubDate>
+      <author>Auburn Tigers on AL.com</author>
+      <description></description>
+      <media:thumbnail url="https://i3.ytimg.com/vi/jyKNUFm_8wg/hqdefault.jpg" width="480" height="360"/>
+      <media:content url="https://www.youtube.com/watch?v=jyKNUFm_8wg" medium="video"/>
+    </item>
     <item>
       <title>What Alex Golesh said after Auburn thumped Samford to earn its 7th win</title>
       <link>https://www.youtube.com/watch?v=8r2meRzPIvU</link>
@@ -300,18 +310,6 @@ AL.com media coverage presented by Medical Properties Trust</description>
 #auburnfootball #secfootball #collegefootball #wareagle #wde</description>
       <media:thumbnail url="https://i1.ytimg.com/vi/tY5m_sBWHo0/hqdefault.jpg" width="480" height="360"/>
       <media:content url="https://www.youtube.com/watch?v=tY5m_sBWHo0" medium="video"/>
-    </item>
-    <item>
-      <title>Alex Golesh addresses the media Monday following Auburn's commanding win on the road in Starkville</title>
-      <link>https://www.youtube.com/watch?v=ENIUcLpC8AI</link>
-      <guid isPermaLink="false">ENIUcLpC8AI</guid>
-      <pubDate>Mon, 16 Nov 2026 19:57:01 +0000</pubDate>
-      <author>Auburn Tigers on AL.com</author>
-      <description>Auburn head coach Alex Golesh addresses the media Monday following the Tigers' commanding road win over Mississippi State, as the team returns home for a match up with Samford.
-
-AL.com media coverage is presented by Inline Electric Supply Co. Inc.</description>
-      <media:thumbnail url="https://i2.ytimg.com/vi/ENIUcLpC8AI/hqdefault.jpg" width="480" height="360"/>
-      <media:content url="https://www.youtube.com/watch?v=ENIUcLpC8AI" medium="video"/>
     </item>
     <item>
       <title>Alabama DC Kane Wommack recaps the Tide's defensive performance vs. Vanderbilt</title>
